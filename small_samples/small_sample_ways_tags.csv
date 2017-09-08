@@ -1,5 +1,4 @@
-id,key,value,type
-5670070,name,Gouverneur Street,regular
+﻿5670070,name,Gouverneur Street,regular
 5670070,oneway,yes,regular
 5670070,highway,residential,regular
 5670070,maxspeed,25 mph,regular
