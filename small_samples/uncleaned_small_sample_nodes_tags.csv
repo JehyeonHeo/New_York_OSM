@@ -1,0 +1,2630 @@
+id,key,value,type
+42428782,highway,traffic_signals,regular
+42430324,highway,traffic_signals,regular
+42433404,highway,traffic_signals,regular
+42434946,highway,traffic_signals,regular
+42436384,highway,traffic_signals,regular
+42447323,highway,traffic_signals,regular
+42465592,highway,traffic_signals,regular
+42468137,highway,traffic_signals,regular
+42468137,traffic_signals,signal,regular
+42469391,highway,traffic_signals,regular
+42470993,highway,traffic_signals,regular
+42472428,highway,traffic_signals,regular
+42473678,highway,traffic_signals,regular
+42479680,highway,traffic_signals,regular
+42479680,traffic_signals,signal,regular
+42485850,highway,traffic_signals,regular
+42491688,highway,traffic_signals,regular
+42496795,highway,traffic_signals,regular
+42510861,highway,traffic_signals,regular
+42519385,highway,traffic_signals,regular
+42524065,highway,traffic_signals,regular
+42526711,highway,traffic_signals,regular
+42533992,highway,traffic_signals,regular
+42533992,traffic_signals,signal,regular
+42740731,highway,traffic_signals,regular
+42871355,highway,traffic_signals,regular
+42883019,highway,traffic_signals,regular
+42968988,highway,traffic_signals,regular
+42991741,highway,traffic_signals,regular
+83921622,highway,turning_loop,regular
+91471499,highway,traffic_signals,regular
+103241428,highway,turning_circle,regular
+103657528,highway,turning_circle,regular
+103676057,highway,turning_circle,regular
+103860955,highway,traffic_signals,regular
+104177251,highway,turning_circle,regular
+104180911,highway,turning_circle,regular
+104182685,highway,turning_circle,regular
+104268038,ref,29,regular
+104268038,highway,motorway_junction,regular
+104278076,highway,traffic_signals,regular
+104278076,traffic_signals,signal,regular
+104338902,railway,level_crossing,regular
+104390749,highway,turning_circle,regular
+104683094,highway,turning_circle,regular
+104710437,highway,turning_circle,regular
+104810436,highway,turning_circle,regular
+104844474,highway,turning_circle,regular
+105048334,highway,turning_circle,regular
+105058646,highway,turning_circle,regular
+105147994,highway,turning_circle,regular
+105162774,highway,turning_circle,regular
+105180148,highway,turning_circle,regular
+105399860,highway,turning_circle,regular
+105410903,highway,turning_circle,regular
+122002745,created_by,JOSM,regular
+158810303,ele,11,regular
+158810303,name,Plandome Manor,regular
+158810303,is_in,"Nassau,New York,N.Y.,NY,USA",regular
+158810303,place,village,regular
+158810303,id,960670,gnis
+158810303,gnis:Class,Populated Place,regular
+158810303,population,841,regular
+158810303,gnis:County,Nassau,regular
+158810303,gnis:ST_num,36,regular
+158810303,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158810303,gnis:ST_alpha,NY,regular
+158810303,gnis:County_num,059,regular
+158810303,population,841;2006,census
+158840066,ele,4,regular
+158840066,name,Gulfport,regular
+158840066,is_in,"Richmond,New York,N.Y.,NY,USA",regular
+158840066,place,neighbourhood,regular
+158840066,id,972578,gnis
+158840066,gnis:Class,Populated Place,regular
+158840066,gnis:County,Richmond,regular
+158840066,gnis:ST_num,36,regular
+158840066,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158840066,gnis:ST_alpha,NY,regular
+158840066,gnis:County_num,085,regular
+158859217,ele,13,regular
+158859217,gnis:Class,Populated Place,regular
+158859217,gnis:County,Middlesex,regular
+158859217,gnis:County_num,023,regular
+158859217,id,876092,gnis
+158859217,gnis:ST_alpha,NJ,regular
+158859217,gnis:ST_num,34,regular
+158859217,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158859217,is_in,"Middlesex,New Jersey,N.J.,NJ,USA",regular
+158859217,name,Edgar,regular
+158859217,place,hamlet,regular
+158859217,wikidata,Q19461526,regular
+158908543,ele,15,regular
+158908543,name,West View,regular
+158908543,is_in,"Bergen,New Jersey,N.J.,NJ,USA",regular
+158908543,place,hamlet,regular
+158908543,id,881734,gnis
+158908543,wikidata,Q22060961,regular
+158908543,gnis:Class,Populated Place,regular
+158908543,gnis:County,Bergen,regular
+158908543,gnis:ST_num,34,regular
+158908543,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158908543,gnis:ST_alpha,NJ,regular
+158908543,gnis:County_num,003,regular
+213490247,highway,traffic_signals,regular
+213536155,highway,turning_loop,regular
+213873152,railway,level_crossing,regular
+214004329,highway,turning_circle,regular
+214355453,source,Yahoo,regular
+214355453,highway,turning_circle,regular
+222024446,created_by,JOSM,regular
+235072409,created_by,JOSM,regular
+243363306,created_by,JOSM,regular
+243381848,created_by,JOSM,regular
+243409004,created_by,JOSM,regular
+247222929,highway,turning_circle,regular
+254131089,highway,traffic_signals,regular
+254233425,highway,turning_circle,regular
+261361355,highway,motorway_junction,regular
+261479044,highway,turning_circle,regular
+261493711,highway,turning_circle,regular
+263511979,source,county_import_v0.1,regular
+263511979,attribution,USGS 2001 County Boundary,regular
+274185079,ref,15,regular
+274185079,highway,motorway_junction,regular
+294075449,created_by,Merkaartor 0.11,regular
+295802736,city,Hoboken,addr
+295802736,created_by,Merkaartor 0.11,regular
+295802736,street,1st St,addr
+295802736,housenumber,564,addr
+296377492,city,Hoboken,addr
+296377492,created_by,Merkaartor 0.11,regular
+296377492,street,Madison St,addr
+296377492,housenumber,133,addr
+296859404,created_by,Merkaartor 0.11,regular
+299199758,created_by,Merkaartor 0.12,regular
+299458015,ref,9,regular
+299458015,highway,motorway_junction,regular
+301495323,created_by,Merkaartor 0.12,regular
+301497616,created_by,Merkaartor 0.12,regular
+301972683,created_by,Merkaartor 0.12,regular
+302128298,created_by,Merkaartor 0.12,regular
+302155159,created_by,Merkaartor 0.12,regular
+305499240,created_by,Merkaartor 0.12,regular
+305499240,housenumber,635,addr
+305556439,city,Hoboken,addr
+305556439,created_by,Merkaartor 0.12,regular
+305556439,street,Bloomfield St,addr
+305556439,housenumber,1001,addr
+307980195,created_by,Merkaartor 0.12,regular
+308497940,created_by,Merkaartor 0.12,regular
+315532971,created_by,Merkaartor 0.12,regular
+316359953,created_by,Merkaartor 0.12,regular
+316392469,ref,22S,regular
+316392469,highway,motorway_junction,regular
+316704570,created_by,Merkaartor 0.12,regular
+317683883,exit_to,Grandview Ave;Wyckoff,regular
+317683883,highway,motorway_junction,regular
+318450976,name,Delta Gas Station,regular
+318450976,source,knowledge,regular
+318450976,amenity,fuel,regular
+318450976,diesel,no,fuel
+320372366,created_by,Merkaartor 0.12,regular
+320404233,created_by,Merkaartor 0.12,regular
+320512138,created_by,Merkaartor 0.12,regular
+335750492,name,Cedarhurst,regular
+335750492,network,Long Island Rail Road,regular
+335750492,railway,station,regular
+335750492,wikipedia,en:Cedarhurst (LIRR station),regular
+357552409,ele,17,regular
+357552409,name,Clara H Carlson School,regular
+357552409,amenity,school,regular
+357552409,created,01/23/1980,gnis
+357552409,state_id,36,gnis
+357552409,county_id,059,gnis
+357552409,feature_id,945847,gnis
+357565063,ele,4,regular
+357565063,name,Holy Family School,regular
+357565063,amenity,school,regular
+357565063,created,01/23/1980,gnis
+357565063,state_id,36,gnis
+357565063,county_id,047,gnis
+357565063,feature_id,953064,gnis
+357574320,ele,15,regular
+357574320,name,Harold D Fayette School,regular
+357574320,amenity,school,regular
+357574320,created,01/23/1980,gnis
+357574320,state_id,36,gnis
+357574320,county_id,059,gnis
+357574320,feature_id,958908,gnis
+357580734,ele,15,regular
+357580734,name,Public School 65,regular
+357580734,amenity,school,regular
+357580734,created,01/23/1980,gnis
+357580734,state_id,36,gnis
+357580734,county_id,081,gnis
+357580734,feature_id,961797,gnis
+357589545,ele,90,regular
+357589545,name,Signal Hill,regular
+357589545,natural,peak,regular
+357589545,created,01/23/1980,gnis
+357589545,state_id,36,gnis
+357589545,county_id,103,gnis
+357589545,feature_id,965221,gnis
+357604771,ele,9,regular
+357604771,name,Milton School,regular
+357604771,amenity,school,regular
+357604771,edited,10/21/2008,gnis
+357604771,created,01/01/2000,gnis
+357604771,state_id,36,gnis
+357604771,county_id,119,gnis
+357604771,feature_id,977420,gnis
+357609562,ele,27,regular
+357609562,name,Crescent Place Reformed Church,regular
+357609562,amenity,place_of_worship,regular
+357609562,religion,christian,regular
+357609562,created,01/01/2000,gnis
+357609562,state_id,36,gnis
+357609562,county_id,119,gnis
+357609562,feature_id,2062342,gnis
+357611552,ele,13,regular
+357611552,name,Templo Cristiano El Faro,regular
+357611552,amenity,place_of_worship,regular
+357611552,religion,christian,regular
+357611552,created,10/03/2005,gnis
+357611552,state_id,36,gnis
+357611552,county_id,005,gnis
+357611552,feature_id,2072521,gnis
+357613158,ele,1,regular
+357613158,name,Congregation Ohr Torah,regular
+357613158,amenity,place_of_worship,regular
+357613158,religion,jewish,regular
+357613158,created,10/28/2005,gnis
+357613158,state_id,36,gnis
+357613158,county_id,059,gnis
+357613158,feature_id,2074201,gnis
+357614570,ele,25,regular
+357614570,name,Queen's Court,regular
+357614570,leisure,park,regular
+357614570,created,06/12/2006,gnis
+357614570,state_id,36,gnis
+357614570,county_id,005,gnis
+357614570,feature_id,2074921,gnis
+357617151,ele,12,regular
+357617151,name,Saint Catherine of Sienna Church,regular
+357617151,amenity,place_of_worship,regular
+357617151,religion,christian,regular
+357617151,created,11/21/2005,gnis
+357617151,state_id,36,gnis
+357617151,county_id,081,gnis
+357617151,feature_id,2079567,gnis
+357619219,ele,4,regular
+357619219,name,Good Shepherd Roman Catholic Church,regular
+357619219,amenity,place_of_worship,regular
+357619219,religion,christian,regular
+357619219,denomination,catholic,regular
+357619219,created,01/03/2006,gnis
+357619219,state_id,36,gnis
+357619219,county_id,047,gnis
+357619219,feature_id,2081770,gnis
+357621684,ele,22,regular
+357621684,name,Rabbi Joseph Lookstein Ramaz School,regular
+357621684,amenity,school,regular
+357621684,created,02/15/2006,gnis
+357621684,state_id,36,gnis
+357621684,county_id,061,gnis
+357621684,feature_id,2083999,gnis
+357624534,ele,8,regular
+357624534,name,Reformed Law Dutch Church of Harlem (historical),regular
+357624534,amenity,place_of_worship,regular
+357624534,religion,christian,regular
+357624534,edited,12/18/2006,gnis
+357624534,created,11/22/2006,gnis
+357624534,state_id,36,gnis
+357624534,county_id,061,gnis
+357624534,feature_id,2099774,gnis
+357635338,ele,16,regular
+357635338,name,Stebbins Playground,regular
+357635338,leisure,park,regular
+357635338,created,01/15/2008,gnis
+357635338,state_id,36,gnis
+357635338,county_id,005,gnis
+357635338,feature_id,2374914,gnis
+357641056,ele,0,regular
+357641056,name,Seaside Nature Park,regular
+357641056,leisure,park,regular
+357641056,created,03/27/2008,gnis
+357641056,state_id,36,gnis
+357641056,county_id,085,gnis
+357641056,feature_id,2416204,gnis
+357650782,ele,18,regular
+357650782,name,Fourteen Honey Locusts Park,regular
+357650782,leisure,park,regular
+357650782,created,10/06/2008,gnis
+357650782,state_id,36,gnis
+357650782,county_id,061,gnis
+357650782,feature_id,2500968,gnis
+357724261,ele,1,regular
+357724261,name,Kealy School,regular
+357724261,amenity,school,regular
+357724261,created,09/08/1979,gnis
+357724261,state_id,34,gnis
+357724261,county_id,017,gnis
+357724261,feature_id,877523,gnis
+357728295,ele,19,regular
+357728295,name,Saint Andrews Cemetery,regular
+357728295,amenity,grave_yard,regular
+357728295,created,09/08/1979,gnis
+357728295,state_id,34,gnis
+357728295,county_id,003,gnis
+357728295,feature_id,879913,gnis
+357731083,ele,26,regular
+357731083,name,Unami Park,regular
+357731083,leisure,park,regular
+357731083,created,09/08/1979,gnis
+357731083,state_id,34,gnis
+357731083,county_id,039,gnis
+357731083,feature_id,881324,gnis
+357735648,ele,113,regular
+357735648,name,Jaqui Dam,regular
+357735648,waterway,dam,regular
+357735648,created,07/01/1981,gnis
+357735648,state_id,34,gnis
+357735648,county_id,027,gnis
+357735648,feature_id,884381,gnis
+357738136,ele,10,regular
+357738136,name,Union Bible Church,regular
+357738136,amenity,place_of_worship,regular
+357738136,religion,christian,regular
+357738136,created,07/01/1981,gnis
+357738136,state_id,34,gnis
+357738136,county_id,023,gnis
+357738136,feature_id,2042419,gnis
+357742140,ele,24,regular
+357742140,name,Reformed Church of the Covenant,regular
+357742140,amenity,place_of_worship,regular
+357742140,religion,christian,regular
+357742140,created,07/01/1981,gnis
+357742140,state_id,34,gnis
+357742140,county_id,031,gnis
+357742140,feature_id,2053521,gnis
+357743144,ele,49,regular
+357743144,name,First Presbyterian Church,regular
+357743144,amenity,place_of_worship,regular
+357743144,religion,christian,regular
+357743144,created,07/01/1981,gnis
+357743144,state_id,34,gnis
+357743144,county_id,003,gnis
+357743144,feature_id,2054722,gnis
+357744185,ele,62,regular
+357744185,name,First Maplewood Baptist Church,regular
+357744185,amenity,place_of_worship,regular
+357744185,religion,christian,regular
+357744185,denomination,baptist,regular
+357744185,created,07/01/1981,gnis
+357744185,state_id,34,gnis
+357744185,county_id,013,gnis
+357744185,feature_id,2056364,gnis
+357745334,ele,10,regular
+357745334,name,Angelic Baptist Church,regular
+357745334,amenity,place_of_worship,regular
+357745334,religion,christian,regular
+357745334,denomination,baptist,regular
+357745334,created,07/01/1981,gnis
+357745334,state_id,34,gnis
+357745334,county_id,017,gnis
+357745334,feature_id,2058614,gnis
+357748113,ele,26,regular
+357748113,name,First Congregational Church,regular
+357748113,amenity,place_of_worship,regular
+357748113,religion,christian,regular
+357748113,created,08/10/2007,gnis
+357748113,state_id,34,gnis
+357748113,county_id,003,gnis
+357748113,feature_id,2336080,gnis
+359285335,ele,27,regular
+359285335,name,Bread of Life Church,regular
+359285335,amenity,place_of_worship,regular
+359285335,religion,christian,regular
+359285335,created,10/24/2001,gnis
+359285335,state_id,09,gnis
+359285335,county_id,001,gnis
+359285335,feature_id,1941750,gnis
+367693070,ele,60,regular
+367693070,name,Madison Area Branch Newark Public Library,regular
+367693070,source,USGS Geonames,regular
+367693070,amenity,library,regular
+367693070,state,NJ,addr
+367693070,reviewed,no,gnis
+367693070,feature_id,2056567,gnis
+367693070,county_name,Essex,gnis
+367693070,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368045549,ele,92,regular
+368045549,name,New York Guild Home,regular
+368045549,source,USGS Geonames,regular
+368045549,building,yes,regular
+368045549,state,NY,addr
+368045549,reviewed,no,gnis
+368045549,feature_id,958472,gnis
+368045549,county_name,Westchester,gnis
+368045549,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368047660,ele,23,regular
+368047660,name,New York Ladder Company 25,regular
+368047660,source,USGS Geonames,regular
+368047660,amenity,fire_station,regular
+368047660,state,NY,addr
+368047660,reviewed,no,gnis
+368047660,feature_id,2084121,gnis
+368047660,county_name,New York,gnis
+368047660,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368055733,ele,12,regular
+368055733,name,Stuyvesant-Fish House,regular
+368055733,source,USGS Geonames,regular
+368055733,building,yes,regular
+368055733,state,NY,addr
+368055733,reviewed,no,gnis
+368055733,feature_id,2082994,gnis
+368055733,county_name,New York,gnis
+368055733,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+369037503,ele,0,regular
+369037503,name,Echo Bay,regular
+369037503,natural,bay,regular
+369037503,state,NY,addr
+369037503,created,01/23/1980,gnis
+369037503,feature_id,949330,gnis
+369037503,county_name,Westchester,gnis
+369037503,feature_type,Bay,gnis
+374220825,highway,turning_circle,regular
+419359959,amenity,bicycle_parking,regular
+419359959,capacity,4,regular
+419360288,amenity,bicycle_parking,regular
+419360288,capacity,2,regular
+419360817,amenity,bicycle_parking,regular
+419360817,capacity,2,regular
+419361291,amenity,bicycle_parking,regular
+419361291,capacity,2,regular
+419361939,amenity,bicycle_parking,regular
+419361939,capacity,2,regular
+419362706,amenity,bicycle_parking,regular
+419362706,capacity,2,regular
+419363500,amenity,bicycle_parking,regular
+419363500,capacity,2,regular
+419363916,amenity,bicycle_parking,regular
+419363916,capacity,22,regular
+419364327,amenity,bicycle_parking,regular
+419364327,capacity,5,regular
+419364653,amenity,bicycle_parking,regular
+419364653,capacity,10,regular
+419365621,amenity,bicycle_parking,regular
+419365621,capacity,2,regular
+419366514,amenity,bicycle_parking,regular
+419366514,capacity,2,regular
+419366863,amenity,bicycle_parking,regular
+419366863,capacity,2,regular
+419367204,amenity,bicycle_parking,regular
+419367204,capacity,2,regular
+419367642,amenity,bicycle_parking,regular
+419367642,capacity,6,regular
+477468645,created_by,ArcGIS Exporter,regular
+477469487,created_by,ArcGIS Exporter,regular
+477470342,created_by,ArcGIS Exporter,regular
+477471089,created_by,ArcGIS Exporter,regular
+477480717,created_by,ArcGIS Exporter,regular
+477481437,created_by,ArcGIS Exporter,regular
+477482675,created_by,ArcGIS Exporter,regular
+477484124,created_by,ArcGIS Exporter,regular
+477484834,created_by,ArcGIS Exporter,regular
+477485577,created_by,ArcGIS Exporter,regular
+477486155,created_by,ArcGIS Exporter,regular
+477486861,created_by,ArcGIS Exporter,regular
+477487476,created_by,ArcGIS Exporter,regular
+477488333,created_by,ArcGIS Exporter,regular
+477488941,created_by,ArcGIS Exporter,regular
+477489668,created_by,ArcGIS Exporter,regular
+477494015,created_by,ArcGIS Exporter,regular
+477497248,created_by,ArcGIS Exporter,regular
+477498117,created_by,ArcGIS Exporter,regular
+477499309,created_by,ArcGIS Exporter,regular
+477502967,created_by,ArcGIS Exporter,regular
+477503902,created_by,ArcGIS Exporter,regular
+477504749,created_by,ArcGIS Exporter,regular
+477505603,created_by,ArcGIS Exporter,regular
+477507818,created_by,ArcGIS Exporter,regular
+477508546,created_by,ArcGIS Exporter,regular
+477511016,created_by,ArcGIS Exporter,regular
+477511924,created_by,ArcGIS Exporter,regular
+477512983,created_by,ArcGIS Exporter,regular
+477516749,created_by,ArcGIS Exporter,regular
+477517531,created_by,ArcGIS Exporter,regular
+477518366,created_by,ArcGIS Exporter,regular
+477519058,created_by,ArcGIS Exporter,regular
+477521314,created_by,ArcGIS Exporter,regular
+477522551,created_by,ArcGIS Exporter,regular
+477530687,created_by,ArcGIS Exporter,regular
+477532024,created_by,ArcGIS Exporter,regular
+477533021,created_by,ArcGIS Exporter,regular
+477533375,created_by,ArcGIS Exporter,regular
+477533854,created_by,ArcGIS Exporter,regular
+477535058,created_by,ArcGIS Exporter,regular
+477553548,created_by,ArcGIS Exporter,regular
+477554040,created_by,ArcGIS Exporter,regular
+477555824,created_by,ArcGIS Exporter,regular
+477560095,created_by,ArcGIS Exporter,regular
+477562254,created_by,ArcGIS Exporter,regular
+477562816,created_by,ArcGIS Exporter,regular
+477565488,created_by,ArcGIS Exporter,regular
+477625490,created_by,ArcGIS Exporter,regular
+477627292,created_by,ArcGIS Exporter,regular
+477628981,created_by,ArcGIS Exporter,regular
+477630838,created_by,ArcGIS Exporter,regular
+477631857,created_by,ArcGIS Exporter,regular
+477632751,created_by,ArcGIS Exporter,regular
+477664904,created_by,ArcGIS Exporter,regular
+477669105,created_by,ArcGIS Exporter,regular
+477673608,created_by,ArcGIS Exporter,regular
+477674402,created_by,ArcGIS Exporter,regular
+477676076,created_by,ArcGIS Exporter,regular
+477676907,created_by,ArcGIS Exporter,regular
+477678136,created_by,ArcGIS Exporter,regular
+477679209,created_by,ArcGIS Exporter,regular
+477680194,created_by,ArcGIS Exporter,regular
+477680826,created_by,ArcGIS Exporter,regular
+477681724,created_by,ArcGIS Exporter,regular
+477682546,created_by,ArcGIS Exporter,regular
+477692492,created_by,ArcGIS Exporter,regular
+477693911,created_by,ArcGIS Exporter,regular
+477696204,created_by,ArcGIS Exporter,regular
+477697581,created_by,ArcGIS Exporter,regular
+477716634,created_by,ArcGIS Exporter,regular
+477717834,created_by,ArcGIS Exporter,regular
+477718721,created_by,ArcGIS Exporter,regular
+477721522,created_by,ArcGIS Exporter,regular
+477723964,created_by,ArcGIS Exporter,regular
+477725048,created_by,ArcGIS Exporter,regular
+477725813,created_by,ArcGIS Exporter,regular
+477726894,created_by,ArcGIS Exporter,regular
+477727987,created_by,ArcGIS Exporter,regular
+477728903,created_by,ArcGIS Exporter,regular
+477741360,created_by,ArcGIS Exporter,regular
+477785894,created_by,ArcGIS Exporter,regular
+477787724,created_by,ArcGIS Exporter,regular
+477788378,created_by,ArcGIS Exporter,regular
+477789765,created_by,ArcGIS Exporter,regular
+477790617,created_by,ArcGIS Exporter,regular
+477791373,created_by,ArcGIS Exporter,regular
+477795512,created_by,ArcGIS Exporter,regular
+477798261,created_by,ArcGIS Exporter,regular
+477799343,created_by,ArcGIS Exporter,regular
+477801823,created_by,ArcGIS Exporter,regular
+477804843,created_by,ArcGIS Exporter,regular
+477805943,created_by,ArcGIS Exporter,regular
+477807057,created_by,ArcGIS Exporter,regular
+477819044,created_by,ArcGIS Exporter,regular
+483037396,created_by,ArcGIS Exporter,regular
+483037802,created_by,ArcGIS Exporter,regular
+483039460,created_by,ArcGIS Exporter,regular
+483039971,created_by,ArcGIS Exporter,regular
+483040426,created_by,ArcGIS Exporter,regular
+483040898,created_by,ArcGIS Exporter,regular
+483042016,created_by,ArcGIS Exporter,regular
+483042392,created_by,ArcGIS Exporter,regular
+483042722,created_by,ArcGIS Exporter,regular
+483043024,created_by,ArcGIS Exporter,regular
+483043326,created_by,ArcGIS Exporter,regular
+483043670,created_by,ArcGIS Exporter,regular
+483044275,created_by,ArcGIS Exporter,regular
+483045121,created_by,ArcGIS Exporter,regular
+483046159,created_by,ArcGIS Exporter,regular
+483047650,created_by,ArcGIS Exporter,regular
+483048045,created_by,ArcGIS Exporter,regular
+483048469,created_by,ArcGIS Exporter,regular
+483049000,created_by,ArcGIS Exporter,regular
+483049947,created_by,ArcGIS Exporter,regular
+483050720,created_by,ArcGIS Exporter,regular
+483051110,created_by,ArcGIS Exporter,regular
+483052679,created_by,ArcGIS Exporter,regular
+483053412,created_by,ArcGIS Exporter,regular
+483053846,created_by,ArcGIS Exporter,regular
+483054381,created_by,ArcGIS Exporter,regular
+483054720,created_by,ArcGIS Exporter,regular
+483055063,created_by,ArcGIS Exporter,regular
+483055395,created_by,ArcGIS Exporter,regular
+483055781,created_by,ArcGIS Exporter,regular
+483056125,created_by,ArcGIS Exporter,regular
+483056490,created_by,ArcGIS Exporter,regular
+483057244,created_by,ArcGIS Exporter,regular
+483057764,created_by,ArcGIS Exporter,regular
+483060023,created_by,ArcGIS Exporter,regular
+483061125,created_by,ArcGIS Exporter,regular
+483061584,created_by,ArcGIS Exporter,regular
+483061903,created_by,ArcGIS Exporter,regular
+483062229,created_by,ArcGIS Exporter,regular
+483062609,created_by,ArcGIS Exporter,regular
+483063057,created_by,ArcGIS Exporter,regular
+483063595,created_by,ArcGIS Exporter,regular
+483063917,created_by,ArcGIS Exporter,regular
+483064314,created_by,ArcGIS Exporter,regular
+483064688,created_by,ArcGIS Exporter,regular
+483065107,created_by,ArcGIS Exporter,regular
+483065435,created_by,ArcGIS Exporter,regular
+483065798,created_by,ArcGIS Exporter,regular
+483066131,created_by,ArcGIS Exporter,regular
+483066440,created_by,ArcGIS Exporter,regular
+483066770,created_by,ArcGIS Exporter,regular
+483067187,created_by,ArcGIS Exporter,regular
+483067510,created_by,ArcGIS Exporter,regular
+483068188,created_by,ArcGIS Exporter,regular
+483068605,created_by,ArcGIS Exporter,regular
+483068910,created_by,ArcGIS Exporter,regular
+483069228,created_by,ArcGIS Exporter,regular
+483072307,created_by,ArcGIS Exporter,regular
+483072851,created_by,ArcGIS Exporter,regular
+483073264,created_by,ArcGIS Exporter,regular
+483073599,created_by,ArcGIS Exporter,regular
+483073990,created_by,ArcGIS Exporter,regular
+483074318,created_by,ArcGIS Exporter,regular
+483074629,created_by,ArcGIS Exporter,regular
+483074993,created_by,ArcGIS Exporter,regular
+483077003,created_by,ArcGIS Exporter,regular
+483079154,created_by,ArcGIS Exporter,regular
+483079612,created_by,ArcGIS Exporter,regular
+483080338,created_by,ArcGIS Exporter,regular
+483080682,created_by,ArcGIS Exporter,regular
+483081218,created_by,ArcGIS Exporter,regular
+483081590,created_by,ArcGIS Exporter,regular
+483081909,created_by,ArcGIS Exporter,regular
+483085158,created_by,ArcGIS Exporter,regular
+483087295,created_by,ArcGIS Exporter,regular
+483088260,created_by,ArcGIS Exporter,regular
+483089017,created_by,ArcGIS Exporter,regular
+483090554,created_by,ArcGIS Exporter,regular
+483091372,created_by,ArcGIS Exporter,regular
+483093400,created_by,ArcGIS Exporter,regular
+483097557,created_by,ArcGIS Exporter,regular
+483103751,created_by,ArcGIS Exporter,regular
+483105443,created_by,ArcGIS Exporter,regular
+483105836,created_by,ArcGIS Exporter,regular
+483106865,created_by,ArcGIS Exporter,regular
+483222504,created_by,ArcGIS Exporter,regular
+483235414,created_by,ArcGIS Exporter,regular
+483242332,created_by,ArcGIS Exporter,regular
+483244021,created_by,ArcGIS Exporter,regular
+483267335,created_by,ArcGIS Exporter,regular
+483268855,created_by,ArcGIS Exporter,regular
+483280578,created_by,ArcGIS Exporter,regular
+483632255,created_by,ArcGIS Exporter,regular
+483642453,created_by,ArcGIS Exporter,regular
+483643117,created_by,ArcGIS Exporter,regular
+483643756,created_by,ArcGIS Exporter,regular
+483647536,created_by,ArcGIS Exporter,regular
+483648946,created_by,ArcGIS Exporter,regular
+483649609,created_by,ArcGIS Exporter,regular
+483650795,created_by,ArcGIS Exporter,regular
+483651934,created_by,ArcGIS Exporter,regular
+483653155,created_by,ArcGIS Exporter,regular
+483661834,created_by,ArcGIS Exporter,regular
+483666908,created_by,ArcGIS Exporter,regular
+483667771,created_by,ArcGIS Exporter,regular
+483674909,created_by,ArcGIS Exporter,regular
+483675884,created_by,ArcGIS Exporter,regular
+483677356,created_by,ArcGIS Exporter,regular
+483678144,created_by,ArcGIS Exporter,regular
+483686137,created_by,ArcGIS Exporter,regular
+483940855,created_by,ArcGIS Exporter,regular
+483942844,created_by,ArcGIS Exporter,regular
+483944753,created_by,ArcGIS Exporter,regular
+483960612,created_by,ArcGIS Exporter,regular
+483961973,created_by,ArcGIS Exporter,regular
+483963272,created_by,ArcGIS Exporter,regular
+483964585,created_by,ArcGIS Exporter,regular
+483966021,created_by,ArcGIS Exporter,regular
+483967403,created_by,ArcGIS Exporter,regular
+483968740,created_by,ArcGIS Exporter,regular
+483974715,created_by,ArcGIS Exporter,regular
+483976728,created_by,ArcGIS Exporter,regular
+483985736,created_by,ArcGIS Exporter,regular
+483992681,created_by,ArcGIS Exporter,regular
+484013330,created_by,ArcGIS Exporter,regular
+484016111,created_by,ArcGIS Exporter,regular
+484017454,created_by,ArcGIS Exporter,regular
+484018638,created_by,ArcGIS Exporter,regular
+484019785,created_by,ArcGIS Exporter,regular
+484029090,created_by,ArcGIS Exporter,regular
+484030149,created_by,ArcGIS Exporter,regular
+484031365,created_by,ArcGIS Exporter,regular
+484031747,created_by,ArcGIS Exporter,regular
+484069349,created_by,ArcGIS Exporter,regular
+484071931,created_by,ArcGIS Exporter,regular
+484072420,created_by,ArcGIS Exporter,regular
+484072781,created_by,ArcGIS Exporter,regular
+484073192,created_by,ArcGIS Exporter,regular
+484073627,created_by,ArcGIS Exporter,regular
+484074081,created_by,ArcGIS Exporter,regular
+484074860,created_by,ArcGIS Exporter,regular
+484075656,created_by,ArcGIS Exporter,regular
+484076035,created_by,ArcGIS Exporter,regular
+484076944,created_by,ArcGIS Exporter,regular
+484077501,created_by,ArcGIS Exporter,regular
+484077879,created_by,ArcGIS Exporter,regular
+486867534,highway,traffic_signals,regular
+529085933,power,tower,regular
+529417065,power,tower,regular
+533905356,ref,49N,regular
+533905356,highway,motorway_junction,regular
+534977014,ref,38,regular
+534977014,highway,motorway_junction,regular
+537435135,name,Subway,regular
+537435135,amenity,fast_food,regular
+540303918,power,tower,regular
+569187676,shop,department_store,regular
+569187676,operator,Urban Outfitters,regular
+569187676,wheelchair,yes,regular
+588114979,highway,traffic_signals,regular
+748735396,ref,142A,regular
+748735396,highway,motorway_junction,regular
+748735396,old_ref,142,regular
+765240307,highway,traffic_signals,regular
+775317193,power,tower,regular
+775866833,power,tower,regular
+871979266,power,tower,regular
+871979266,source,Yahoo,regular
+872596133,power,tower,regular
+872596133,source,Yahoo,regular
+916647036,type,broad_leafed,regular
+916647036,natural,tree,regular
+970275818,power,pole,regular
+972644154,power,tower,regular
+973583665,power,pole,regular
+1027111537,power,tower,regular
+1027246865,source,tiger_import_dch_v0.6_20070829,regular
+1027246865,tlid,147661731:147661743:147661311:147839663:147839664,tiger
+1027246865,county,"Nassau, NY",tiger
+1027246865,upload_uuid,bulk_upload.pl-9e2fc80e-9312-407e-9603-ca030ab40414,tiger
+1042150288,name,One Ten Heliport,regular
+1042150288,source,ourairports.com,regular
+1042150288,aeroway,helipad,regular
+1064257420,highway,traffic_signals,regular
+1086008938,highway,traffic_signals,regular
+1101710151,power,tower,regular
+1102269103,power,pole,regular
+1104399791,power,tower,regular
+1104887667,power,tower,regular
+1111108211,power,tower,regular
+1111366782,power,tower,regular
+1111545573,power,tower,regular
+1151537559,name,Istambul,regular
+1151537559,amenity,fast_food,regular
+1166621486,highway,bus_stop,regular
+1193135342,railway,switch,regular
+1209761660,highway,crossing,regular
+1209761660,crossing,zebra,regular
+1240900865,name,Intelligence Garden,regular
+1240900865,leisure,garden,regular
+1243056970,power,pole,regular
+1262585257,name,Liberty Harbor,regular
+1262585257,amenity,ferry_terminal,regular
+1278850902,amenity,fire_station,regular
+1299563743,railway,subway_entrance,regular
+1299563743,wheelchair,no,regular
+1346527374,highway,traffic_signals,regular
+1412695606,railway,switch,regular
+1423440756,name,Nassau Avenue (G),regular
+1423440756,source,http://mta.info/nyct/service/gline.htm,regular
+1423440756,network,New York City Subway,regular
+1423440756,railway,station,regular
+1423440756,operator,MTA,regular
+1423440756,platforms,2,regular
+1491225767,highway,traffic_signals,regular
+1545098796,power,tower,regular
+1545497168,power,tower,regular
+1588331482,amenity,bicycle_parking,regular
+1588331482,street,Washington Avenue,addr
+1588331482,housenumber,690,addr
+1634598365,height,10,regular
+1634598365,man_made,flagpole,regular
+1672905739,amenity,bicycle_parking,regular
+1672905739,street,Kingston Avenue,addr
+1672905739,housenumber,168,addr
+1697712881,name,Super Suds Laundry Mat,regular
+1697712881,shop,laundry,regular
+1697712881,street,Springfield Ave.,addr
+1697712881,postcode,07111,addr
+1697712881,housename,Super Suds Laundry,addr
+1697712881,housenumber,862 772 3109,addr
+1754595076,amenity,drinking_water,regular
+1782672716,street,Greenwich Street,addr
+1782672716,housenumber,200,addr
+1789719390,barrier,bollard,regular
+1796232814,power,tower,regular
+1798849074,power,pole,regular
+1810737606,name,Famous Famiglia,regular
+1810737606,phone,+1 212 749 1111,regular
+1810737606,amenity,fast_food,regular
+1810737606,cuisine,pizza,regular
+1810737606,takeaway,yes,regular
+1810737606,city,New York,addr
+1810737606,state,NY,addr
+1810737606,street,Amsterdam Avenue,addr
+1810737606,country,US,addr
+1810737606,postcode,10025,addr
+1810737606,housenumber,734,addr
+1827182477,street,Grand Avenue,addr
+1827182477,housenumber,562,addr
+1884473154,name,Vanessa's Dumpling House,regular
+1884473154,amenity,restaurant,regular
+1884473154,cuisine,chinese,regular
+1918039877,highway,traffic_signals,regular
+1928470655,name,Perth Amboy Police Station,regular
+1928470655,amenity,police,regular
+1963229656,power,pole,regular
+1963232430,power,pole,regular
+1975879362,amenity,fuel,regular
+1986069507,power,pole,regular
+1986073684,power,tower,regular
+1986619271,power,tower,regular
+2006308281,power,tower,regular
+2007042510,power,pole,regular
+2012381637,power,pole,regular
+2014577636,power,pole,regular
+2033394926,railway,level_crossing,regular
+2034179121,railway,level_crossing,regular
+2084111839,entrance,yes,regular
+2091641952,name,Brooklyn Industries,regular
+2091641952,shop,clothes,regular
+2091641952,opening_hours,Mo-Sa 11:00-20:00; Su 11:00-19:00,regular
+2141113531,natural,tree,regular
+2141113531,leaf_type,broadleaved,regular
+2141113531,denotation,avenue,regular
+2155551108,highway,crossing,regular
+2155551108,crossing,traffic_signals,regular
+2186614181,name,Hale & Hearty Soup,regular
+2186614181,amenity,restaurant,regular
+2211046005,power,pole,regular
+2211335657,power,pole,regular
+2211974384,power,pole,regular
+2211975026,power,pole,regular
+2216452868,power,pole,regular
+2216862586,power,pole,regular
+2256529815,highway,crossing,regular
+2274507677,amenity,pharmacy,regular
+2279017953,name,Cascabel Taqueria,regular
+2279017953,amenity,restaurant,regular
+2279017953,cuisine,mexican,regular
+2279017953,website,http://www.nyctacos.com/,regular
+2279017953,city,New York,addr
+2279017953,state,NY,addr
+2279017953,street,Broadway,addr
+2279017953,country,US,addr
+2279017953,postcode,10025,addr
+2279017953,opening_hours,Mo-Su 11:00-24:00,regular
+2279017953,housenumber,2799,addr
+2320854162,name,Darien,regular
+2320854162,public_transport,stop_position,regular
+2321294500,highway,traffic_signals,regular
+2321694764,seats,4,regular
+2321694764,colour,green,regular
+2321694764,amenity,bench,regular
+2321694764,backrest,yes,regular
+2321694764,material,wood,regular
+2324985676,ref,1070600028,regular
+2324985676,amenity,post_box,regular
+2324985676,operator,United States Postal Service,regular
+2324985676,collection_times,Mo-Sa 08:30,regular
+2335383475,power,tower,regular
+2348610411,amenity,atm,regular
+2348610411,operator,Bank of America,regular
+2348610411,opening_hours,24/7,regular
+2354296783,name,Mi Ranchito,regular
+2354296783,amenity,restaurant,regular
+2354296783,cuisine,spanish,regular
+2354296783,website,"http://maps.google.com/local_url?dq=mi+Ranchito+Restaurant&q=http://www.miranchitogrillandbar.com/&oi=miw&sa=X&ct=miw_link&cd=1&cad=homepage,cid:1706131537235801532&ei=54vDUaLkB6fRxAGmtYDgBA&s=ANYYN7kQV_99A5w0y593WxyjRp5MfpJp2Q",regular
+2354296783,street,Manorhaven Blvd,addr
+2354296783,postcode,11050,addr
+2354296783,housenumber,195,addr
+2377128177,name,Rite Aid,regular
+2377128177,amenity,pharmacy,regular
+2377128177,city,New York,addr
+2377128177,state,NY,addr
+2377128177,dispensing,yes,regular
+2377128177,street,8th Avenue,addr
+2377128177,country,US,addr
+2377128177,postcode,10001,addr
+2377128177,opening_hours,24/7,regular
+2377128177,housenumber,282,addr
+2377652435,highway,traffic_signals,regular
+2382189273,height,10,regular
+2382189273,natural,tree,regular
+2382189273,leaf_type,broadleaved,regular
+2382189273,denotation,avenue,regular
+2408375729,name,Dalas BBQ,regular
+2408375729,phone,+1-212.462.0001,regular
+2408375729,amenity,restaurant,regular
+2408375729,cuisine,barbecue,regular
+2408375729,website,www.dallasbbq.com,regular
+2408375729,city,New York,addr
+2408375729,state,NY,addr
+2408375729,street,8th Avenue,addr
+2408375729,country,US,addr
+2408375729,housenumber,261,addr
+2443892138,name,Pinkberry,regular
+2443892138,amenity,cafe,regular
+2443892138,cuisine,ice_cream,regular
+2443892138,takeaway,yes,regular
+2443892138,opening_hours,Mo-Th 08:00-23:00; Fr 08:30-00:30; Sa-Su 11:30-00:30,regular
+2452117957,highway,turning_circle,regular
+2468394315,natural,tree,regular
+2472137201,barrier,gate,regular
+2473602955,natural,tree,regular
+2477910755,man_made,flagpole,regular
+2494018346,street,Coney Island Avenue,addr
+2494018346,postcode,11218,addr
+2494018346,housenumber,427,addr
+2494071117,street,Joralemon Street,addr
+2494071117,postcode,11201,addr
+2494071117,housenumber,113,addr
+2494086287,street,East 8th Street,addr
+2494086287,postcode,11218,addr
+2494086287,housenumber,73,addr
+2494116620,bin,yes,regular
+2494116620,name,Bay Street & Sands Street,regular
+2494116620,public_transport,platform,regular
+2494157956,street,Saint Pauls Avenue,addr
+2494157956,postcode,10301,addr
+2494157956,housenumber,70,addr
+2494171548,street,Carroll Street,addr
+2494171548,postcode,11231,addr
+2494171548,housenumber,105,addr
+2494199285,street,Clark Lane,addr
+2494199285,postcode,10304,addr
+2494199285,housenumber,68,addr
+2494210989,street,Marlborough Road,addr
+2494210989,postcode,11226,addr
+2494210989,housenumber,161,addr
+2494253518,street,Warren Street,addr
+2494253518,postcode,11217,addr
+2494253518,housenumber,568,addr
+2494289281,street,Ditmas Avenue,addr
+2494289281,postcode,11226,addr
+2494289281,housenumber,1501,addr
+2494341659,street,Steinway Street,addr
+2494341659,postcode,11105,addr
+2494341659,housenumber,20-79,addr
+2514117127,street,Bay Street,addr
+2514117127,postcode,10305,addr
+2514117127,housenumber,1082A,addr
+2526690032,street,Davis Avenue,addr
+2526690032,postcode,10310,addr
+2526690032,housenumber,442,addr
+2535060647,name,Roger Smith Hotel,regular
+2535060647,tourism,hotel,regular
+2539275462,street,Maguire Avenue,addr
+2539275462,postcode,10309,addr
+2539275462,housenumber,6,addr
+2541380646,street,Avenue M,addr
+2541380646,postcode,11234,addr
+2541380646,housenumber,4801,addr
+2541388781,street,Utica Avenue,addr
+2541388781,postcode,11234,addr
+2541388781,housenumber,2057,addr
+2541411955,street,Avenue K,addr
+2541411955,postcode,11234,addr
+2541411955,housenumber,5202,addr
+2541629710,street,Bidwell Avenue,addr
+2541629710,postcode,10314,addr
+2541629710,housenumber,144,addr
+2541801136,street,Watchogue Road,addr
+2541801136,postcode,10314,addr
+2541801136,housenumber,19,addr
+2541993988,street,Mountainview Avenue,addr
+2541993988,postcode,10314,addr
+2541993988,housenumber,65,addr
+2543050268,street,Schenectady Avenue,addr
+2543050268,postcode,11234,addr
+2543050268,housenumber,1633,addr
+2543063316,street,Preston Court,addr
+2543063316,postcode,11234,addr
+2543063316,housenumber,15,addr
+2543091845,street,Clarendon Road,addr
+2543091845,postcode,11203,addr
+2543091845,housenumber,5115,addr
+2543109883,street,Jennifer Place,addr
+2543109883,postcode,10314,addr
+2543109883,housenumber,46A,addr
+2543119221,street,Ditmas Avenue,addr
+2543119221,postcode,11236,addr
+2543119221,housenumber,9411,addr
+2543169233,street,Malta Street,addr
+2543169233,postcode,11207,addr
+2543169233,housenumber,361,addr
+2543228121,street,Van Siclen Avenue,addr
+2543228121,postcode,11207,addr
+2543228121,housenumber,821,addr
+2543270399,street,Wortman Avenue,addr
+2543270399,postcode,11208,addr
+2543270399,housenumber,601,addr
+2543386160,street,Country Drive North,addr
+2543386160,postcode,10314,addr
+2543386160,housenumber,64,addr
+2543498706,street,Liberty Avenue,addr
+2543498706,postcode,11416,addr
+2543498706,housenumber,78-25,addr
+2543584813,street,Euclid Avenue,addr
+2543584813,postcode,11208,addr
+2543584813,housenumber,153,addr
+2543937980,street,Seth Court,addr
+2543937980,postcode,10301,addr
+2543937980,housenumber,13,addr
+2544087086,street,Milford Street,addr
+2544087086,postcode,11208,addr
+2544087086,housenumber,479,addr
+2545069141,street,Blake Avenue,addr
+2545069141,postcode,11208,addr
+2545069141,housenumber,1147,addr
+2545106625,street,Elton Street,addr
+2545106625,postcode,11208,addr
+2545106625,housenumber,385,addr
+2545126993,street,New Lots Avenue,addr
+2545126993,postcode,11207,addr
+2545126993,housenumber,747,addr
+2545250057,street,Hylan Boulevard,addr
+2545250057,postcode,10305,addr
+2545250057,housenumber,1186,addr
+2545381487,street,Naughton Avenue,addr
+2545381487,postcode,10305,addr
+2545381487,housenumber,467,addr
+2545546124,street,220th Street,addr
+2545546124,postcode,11429,addr
+2545546124,housenumber,101-1,addr
+2547006622,street,1st Avenue,addr
+2547006622,postcode,10003,addr
+2547006622,housenumber,13,addr
+2547109111,street,Greene Street,addr
+2547109111,postcode,10012,addr
+2547109111,housenumber,133,addr
+2547174028,street,Wexford Terrace,addr
+2547174028,postcode,11432,addr
+2547174028,housenumber,187-06,addr
+2547212321,street,87th Drive,addr
+2547212321,postcode,11432,addr
+2547212321,housenumber,175-5,addr
+2547218199,street,East 13th Street,addr
+2547218199,postcode,10009,addr
+2547218199,housenumber,405,addr
+2547246043,street,Broome Street,addr
+2547246043,postcode,10013,addr
+2547246043,housenumber,409,addr
+2547544791,street,Queens Boulevard,addr
+2547544791,postcode,11374,addr
+2547544791,housenumber,92-32,addr
+2547630772,street,Fulton Street,addr
+2547630772,postcode,11213,addr
+2547630772,housenumber,1558,addr
+2547642128,street,Tompkins Avenue,addr
+2547642128,postcode,11216,addr
+2547642128,housenumber,435,addr
+2549932947,street,East 30th Street,addr
+2549932947,postcode,10016,addr
+2549932947,housenumber,201,addr
+2549972132,street,Henry Street,addr
+2549972132,postcode,11231,addr
+2549972132,housenumber,484,addr
+2549988844,street,Smith Street,addr
+2549988844,postcode,11231,addr
+2549988844,housenumber,403,addr
+2550065264,street,Livingston Street,addr
+2550065264,postcode,11201,addr
+2550065264,housenumber,240,addr
+2550067195,street,Greene Street,addr
+2550067195,postcode,10003,addr
+2550067195,housenumber,247,addr
+2550086524,street,Sullivan Street,addr
+2550086524,postcode,11231,addr
+2550086524,housenumber,163,addr
+2550153170,street,Saint James Place,addr
+2550153170,postcode,11238,addr
+2550153170,housenumber,231,addr
+2550523127,street,Hillside Avenue,addr
+2550523127,postcode,11004,addr
+2550523127,housenumber,263-01,addr
+2550661520,street,9th Street,addr
+2550661520,postcode,10306,addr
+2550661520,housenumber,96,addr
+2550676329,street,Hanford Street,addr
+2550676329,postcode,11362,addr
+2550676329,housenumber,240-13,addr
+2550680717,street,Cannon Boulevard,addr
+2550680717,postcode,10306,addr
+2550680717,housenumber,180,addr
+2550715413,street,Albee Avenue,addr
+2550715413,postcode,10312,addr
+2550715413,housenumber,212,addr
+2550855840,street,Twombly Avenue,addr
+2550855840,postcode,10306,addr
+2550855840,housenumber,118,addr
+2550881674,street,Ely Avenue,addr
+2550881674,postcode,10312,addr
+2550881674,housenumber,32,addr
+2550901779,street,86th Crescent,addr
+2550901779,postcode,11432,addr
+2550901779,housenumber,161-51,addr
+2550906799,street,Highland Avenue,addr
+2550906799,postcode,11432,addr
+2550906799,housenumber,164-20,addr
+2550935617,street,85th Road,addr
+2550935617,postcode,11435,addr
+2550935617,housenumber,141-48,addr
+2550979672,street,Woodcutters Lane,addr
+2550979672,postcode,10306,addr
+2550979672,housenumber,117A,addr
+2551012490,street,169th Street,addr
+2551012490,postcode,11432,addr
+2551012490,housenumber,80-2,addr
+2551084278,street,Amboy Road,addr
+2551084278,postcode,10312,addr
+2551084278,housenumber,4604,addr
+2552762183,street,Neptune Avenue,addr
+2552762183,postcode,11224,addr
+2552762183,housenumber,1602,addr
+2552779015,street,71st Crescent,addr
+2552779015,postcode,11365,addr
+2552779015,housenumber,188-35H,addr
+2552785215,street,186th Lane,addr
+2552785215,postcode,11365,addr
+2552785215,housenumber,69-9F,addr
+2552794353,street,95th Street,addr
+2552794353,postcode,11209,addr
+2552794353,housenumber,460,addr
+2552852269,street,Brighton 3rd Street,addr
+2552852269,postcode,11235,addr
+2552852269,housenumber,2940,addr
+2552880689,street,Brighton 4th Street,addr
+2552880689,postcode,11235,addr
+2552880689,housenumber,3094,addr
+2552937591,street,205th Street,addr
+2552937591,postcode,11364,addr
+2552937591,housenumber,58-21,addr
+2552990293,street,205th Street,addr
+2552990293,postcode,11364,addr
+2552990293,housenumber,48-53,addr
+2553000203,street,77th Street,addr
+2553000203,postcode,11209,addr
+2553000203,housenumber,514,addr
+2553192542,street,72nd Street,addr
+2553192542,postcode,11209,addr
+2553192542,housenumber,510,addr
+2553300178,street,Mesereau Court,addr
+2553300178,postcode,11235,addr
+2553300178,housenumber,23,addr
+2553307032,street,65th Avenue,addr
+2553307032,postcode,11364,addr
+2553307032,housenumber,223-53,addr
+2553307804,street,224th Street,addr
+2553307804,postcode,11364,addr
+2553307804,housenumber,61-9,addr
+2553329423,street,223rd Place,addr
+2553329423,postcode,11364,addr
+2553329423,housenumber,67-20,addr
+2553438755,street,Brighton Court,addr
+2553438755,postcode,11235,addr
+2553438755,housenumber,56,addr
+2555123890,street,Chrystie Street,addr
+2555123890,postcode,10002,addr
+2555123890,housenumber,53,addr
+2555126600,street,Orchard Street,addr
+2555126600,postcode,10002,addr
+2555126600,housenumber,133,addr
+2555135970,street,East 18th Street,addr
+2555135970,postcode,10003,addr
+2555135970,housenumber,28,addr
+2555506064,street,Avenue Y,addr
+2555506064,postcode,11223,addr
+2555506064,housenumber,544,addr
+2555654575,street,McDonald Avenue,addr
+2555654575,postcode,11223,addr
+2555654575,housenumber,2271,addr
+2555738586,street,Avenue W,addr
+2555738586,postcode,11223,addr
+2555738586,housenumber,49,addr
+2556091849,street,Van Sicklen Street,addr
+2556091849,postcode,11223,addr
+2556091849,housenumber,216,addr
+2556194060,street,Avenue U,addr
+2556194060,postcode,11223,addr
+2556194060,housenumber,335,addr
+2556293065,street,Cropsey Avenue,addr
+2556293065,postcode,11214,addr
+2556293065,housenumber,2078,addr
+2556317989,street,19th Avenue,addr
+2556317989,postcode,11214,addr
+2556317989,housenumber,8771,addr
+2556412449,street,77th Street,addr
+2556412449,postcode,11214,addr
+2556412449,housenumber,2102,addr
+2557531346,street,Bay Ridge Avenue,addr
+2557531346,postcode,11228,addr
+2557531346,housenumber,1074,addr
+2557907310,street,62nd Street,addr
+2557907310,postcode,11204,addr
+2557907310,housenumber,1690,addr
+2557936963,street,62nd Street,addr
+2557936963,postcode,11219,addr
+2557936963,housenumber,1210,addr
+2557944236,street,New Utrecht Avenue,addr
+2557944236,postcode,11219,addr
+2557944236,housenumber,5901,addr
+2561230177,street,70th Street,addr
+2561230177,postcode,11228,addr
+2561230177,housenumber,829,addr
+2561262395,street,16th Avenue,addr
+2561262395,postcode,11219,addr
+2561262395,housenumber,4824,addr
+2561365149,street,10th Avenue,addr
+2561365149,postcode,11219,addr
+2561365149,housenumber,6008,addr
+2561412295,street,51st Street,addr
+2561412295,postcode,11219,addr
+2561412295,housenumber,1015,addr
+2561455567,street,9th Avenue,addr
+2561455567,postcode,11219,addr
+2561455567,housenumber,4701,addr
+2561498280,street,46th Street,addr
+2561498280,postcode,11220,addr
+2561498280,housenumber,820,addr
+2561552355,street,4th Avenue,addr
+2561552355,postcode,11220,addr
+2561552355,housenumber,5001,addr
+2561577779,street,6th Avenue,addr
+2561577779,postcode,11220,addr
+2561577779,housenumber,5402,addr
+2561691572,street,4th Avenue,addr
+2561691572,postcode,11220,addr
+2561691572,housenumber,5802,addr
+2561698404,street,49th Street,addr
+2561698404,postcode,11220,addr
+2561698404,housenumber,402,addr
+2561950821,street,15th Avenue,addr
+2561950821,postcode,11218,addr
+2561950821,housenumber,3602,addr
+2561979819,street,East 2nd Street,addr
+2561979819,postcode,11218,addr
+2561979819,housenumber,329,addr
+2561983205,street,East 5th Street,addr
+2561983205,postcode,11218,addr
+2561983205,housenumber,330,addr
+2562069524,street,10th Avenue,addr
+2562069524,postcode,11215,addr
+2562069524,housenumber,1519,addr
+2562449467,street,Varick Street,addr
+2562449467,postcode,10014,addr
+2562449467,housenumber,228,addr
+2562460522,street,Barrow Street,addr
+2562460522,postcode,10014,addr
+2562460522,housenumber,45 1/2,addr
+2562793014,street,East 9th Street,addr
+2562793014,postcode,11223,addr
+2562793014,housenumber,2018,addr
+2563144569,street,Avenue O,addr
+2563144569,postcode,11230,addr
+2563144569,housenumber,1802,addr
+2563167762,street,Quentin Road,addr
+2563167762,postcode,11223,addr
+2563167762,housenumber,1010,addr
+2563275966,street,Avenue M,addr
+2563275966,postcode,11230,addr
+2563275966,housenumber,1019,addr
+2563389674,street,Avenue L,addr
+2563389674,postcode,11210,addr
+2563389674,housenumber,2407,addr
+2563525240,street,Bedford Avenue,addr
+2563525240,postcode,11210,addr
+2563525240,housenumber,3007,addr
+2563796201,street,Avenue K,addr
+2563796201,postcode,11210,addr
+2563796201,housenumber,4002,addr
+2563839980,street,East 22nd Street,addr
+2563839980,postcode,11210,addr
+2563839980,housenumber,821,addr
+2563930325,street,Broadway,addr
+2563930325,postcode,10013,addr
+2563930325,housenumber,394,addr
+2564509329,street,Wilson Avenue,addr
+2564509329,postcode,11221,addr
+2564509329,housenumber,436,addr
+2564522312,street,Covert Street,addr
+2564522312,postcode,11207,addr
+2564522312,housenumber,219A,addr
+2564597801,street,East 56th Street,addr
+2564597801,postcode,11234,addr
+2564597801,housenumber,1476,addr
+2564686945,street,Rose Street,addr
+2564686945,postcode,11236,addr
+2564686945,housenumber,10,addr
+2564925168,street,East 108th Street,addr
+2564925168,postcode,11236,addr
+2564925168,housenumber,1002,addr
+2564926296,street,Macon Street,addr
+2564926296,postcode,11233,addr
+2564926296,housenumber,760,addr
+2564934012,street,Halsey Street,addr
+2564934012,postcode,11233,addr
+2564934012,housenumber,803,addr
+2565094718,street,Patchen Avenue,addr
+2565094718,postcode,11233,addr
+2565094718,housenumber,246,addr
+2565123449,street,Marcus Garvey Boulevard,addr
+2565123449,postcode,11221,addr
+2565123449,housenumber,328,addr
+2565349184,street,Farragut Road,addr
+2565349184,postcode,11210,addr
+2565349184,housenumber,2802,addr
+2565379563,street,East 70th Street,addr
+2565379563,postcode,11234,addr
+2565379563,housenumber,1401,addr
+2565708163,street,West Broadway,addr
+2565708163,postcode,10013,addr
+2565708163,housenumber,243,addr
+2566217289,street,Avenue X,addr
+2566217289,postcode,11234,addr
+2566217289,housenumber,7221,addr
+2566285130,street,East 29th Street,addr
+2566285130,postcode,11226,addr
+2566285130,housenumber,404,addr
+2566358171,street,Clarendon Road,addr
+2566358171,postcode,11203,addr
+2566358171,housenumber,3902,addr
+2566370115,street,Avenue D,addr
+2566370115,postcode,11203,addr
+2566370115,housenumber,3523,addr
+2566475118,street,East 49th Street,addr
+2566475118,postcode,11203,addr
+2566475118,housenumber,483,addr
+2566559608,street,Albany Avenue,addr
+2566559608,postcode,11203,addr
+2566559608,housenumber,529,addr
+2566566362,street,Winthrop Street,addr
+2566566362,postcode,11203,addr
+2566566362,housenumber,453,addr
+2566608411,street,Rutland Road,addr
+2566608411,postcode,11225,addr
+2566608411,housenumber,117,addr
+2566614064,street,New York Avenue,addr
+2566614064,postcode,11225,addr
+2566614064,housenumber,590B,addr
+2566729092,street,Winthrop Street,addr
+2566729092,postcode,11212,addr
+2566729092,housenumber,995,addr
+2566788284,street,Saratoga Avenue,addr
+2566788284,postcode,11212,addr
+2566788284,housenumber,661,addr
+2566892366,street,Christopher Avenue,addr
+2566892366,postcode,11212,addr
+2566892366,housenumber,496,addr
+2566908504,street,Linden Boulevard,addr
+2566908504,postcode,11207,addr
+2566908504,housenumber,1851,addr
+2566916941,street,Linden Boulevard,addr
+2566916941,postcode,11207,addr
+2566916941,housenumber,2007,addr
+2566919376,street,Ridgewood Avenue,addr
+2566919376,postcode,11207,addr
+2566919376,housenumber,39,addr
+2567007543,street,Lefferts Avenue,addr
+2567007543,postcode,11225,addr
+2567007543,housenumber,557,addr
+2567118333,street,Lincoln Place,addr
+2567118333,postcode,11233,addr
+2567118333,housenumber,1676,addr
+2567561042,street,Orchard Street,addr
+2567561042,postcode,10002,addr
+2567561042,housenumber,64,addr
+2567575083,street,Charles Street,addr
+2567575083,postcode,10014,addr
+2567575083,housenumber,148,addr
+2567923767,street,Brooklyn Avenue,addr
+2567923767,postcode,11213,addr
+2567923767,housenumber,258,addr
+2567934931,street,Nostrand Avenue,addr
+2567934931,postcode,11216,addr
+2567934931,housenumber,643,addr
+2567940113,street,Marcy Avenue,addr
+2567940113,postcode,11216,addr
+2567940113,housenumber,753,addr
+2567986492,street,Pulaski Street,addr
+2567986492,postcode,11206,addr
+2567986492,housenumber,140,addr
+2568011092,street,Sterling Place,addr
+2568011092,postcode,11213,addr
+2568011092,housenumber,1060,addr
+2568032178,street,Park Avenue,addr
+2568032178,postcode,11206,addr
+2568032178,housenumber,824,addr
+2568133728,street,Lafayette Avenue,addr
+2568133728,postcode,11238,addr
+2568133728,housenumber,320,addr
+2568159057,street,Willoughby Avenue,addr
+2568159057,postcode,11205,addr
+2568159057,housenumber,300,addr
+2568198183,street,Myrtle Avenue,addr
+2568198183,postcode,11205,addr
+2568198183,housenumber,685 1/2,addr
+2568202449,street,Spencer Street,addr
+2568202449,postcode,11205,addr
+2568202449,housenumber,48,addr
+2568257548,street,Sterling Place,addr
+2568257548,postcode,11233,addr
+2568257548,housenumber,1785,addr
+2568335977,street,Troy Avenue,addr
+2568335977,postcode,11213,addr
+2568335977,housenumber,21,addr
+2568399528,street,Hunterfly Place,addr
+2568399528,postcode,11233,addr
+2568399528,housenumber,22,addr
+2568519075,street,Pearl Street,addr
+2568519075,postcode,11201,addr
+2568519075,housenumber,87,addr
+2568578831,street,Sumpter Street,addr
+2568578831,postcode,11233,addr
+2568578831,housenumber,331,addr
+2568643628,street,Knickerbocker Avenue,addr
+2568643628,postcode,11221,addr
+2568643628,housenumber,362,addr
+2568740719,street,Stephen Street,addr
+2568740719,postcode,11385,addr
+2568740719,housenumber,1805,addr
+2568784642,street,Putnam Avenue,addr
+2568784642,postcode,11385,addr
+2568784642,housenumber,1822,addr
+2568839656,street,Onderdonk Avenue,addr
+2568839656,postcode,11385,addr
+2568839656,housenumber,389,addr
+2569065466,street,Charles Street,addr
+2569065466,postcode,10014,addr
+2569065466,housenumber,2,addr
+2569266667,street,West 14th Street,addr
+2569266667,postcode,10014,addr
+2569266667,housenumber,414,addr
+2569267813,street,Hudson Street,addr
+2569267813,postcode,10014,addr
+2569267813,housenumber,597,addr
+2569703596,street,Tennis Place,addr
+2569703596,postcode,11375,addr
+2569703596,housenumber,30,addr
+2569811710,street,Greenway South,addr
+2569811710,postcode,11375,addr
+2569811710,housenumber,77-02,addr
+2569839882,street,Burns Street,addr
+2569839882,postcode,11375,addr
+2569839882,housenumber,61,addr
+2569844669,street,Queens Boulevard,addr
+2569844669,postcode,11375,addr
+2569844669,housenumber,116-02,addr
+2569960855,street,108th Street,addr
+2569960855,postcode,11375,addr
+2569960855,housenumber,62-35,addr
+2569971005,street,99th Street,addr
+2569971005,postcode,11368,addr
+2569971005,housenumber,58-04,addr
+2570197555,street,93rd Street,addr
+2570197555,postcode,11372,addr
+2570197555,housenumber,37-02,addr
+2570558340,street,136th Street,addr
+2570558340,postcode,11367,addr
+2570558340,housenumber,67-55,addr
+2570596440,street,137th Avenue,addr
+2570596440,postcode,11413,addr
+2570596440,housenumber,231-21,addr
+2570613838,street,Merrick Boulevard,addr
+2570613838,postcode,11413,addr
+2570613838,housenumber,227-14,addr
+2572930545,street,South Portland Avenue,addr
+2572930545,postcode,11217,addr
+2572930545,housenumber,13,addr
+2572981801,street,South Elliott Place,addr
+2572981801,postcode,11217,addr
+2572981801,housenumber,87,addr
+2573098378,street,Saint Marks Avenue,addr
+2573098378,postcode,11238,addr
+2573098378,housenumber,223,addr
+2597689726,entrance,main,regular
+2603955375,amenity,post_box,regular
+2603955375,operator,United States Postal Service,regular
+2611341957,name,14th Street-Union Square,regular
+2611341957,railway,subway_entrance,regular
+2645523489,natural,tree,regular
+2645523800,natural,tree,regular
+2673551144,name,Kayak Launch,regular
+2673551144,leisure,slipway,regular
+2702767689,street,94th Street,addr
+2702767689,postcode,11421,addr
+2702767689,housenumber,85-20,addr
+2702937003,street,West 15th Street,addr
+2702937003,postcode,10011,addr
+2702937003,housenumber,161,addr
+2702966047,street,West 17th Street,addr
+2702966047,postcode,10011,addr
+2702966047,housenumber,26,addr
+2703067369,street,West 21st Street,addr
+2703067369,postcode,10011,addr
+2703067369,housenumber,261,addr
+2703104209,street,7th Avenue,addr
+2703104209,postcode,10001,addr
+2703104209,housenumber,300,addr
+2703311249,street,West 29th Street,addr
+2703311249,postcode,10001,addr
+2703311249,housenumber,301A,addr
+2703424184,street,West 31st Street,addr
+2703424184,postcode,10001,addr
+2703424184,housenumber,202,addr
+2705030437,natural,tree,regular
+2705030437,denotation,urban,regular
+2706939887,street,6th Avenue,addr
+2706939887,postcode,10001,addr
+2706939887,housenumber,850,addr
+2708095626,street,East 56th Street,addr
+2708095626,postcode,10022,addr
+2708095626,housenumber,14,addr
+2708250346,street,Queens Boulevard,addr
+2708250346,postcode,11101,addr
+2708250346,housenumber,32-07,addr
+2709335817,street,Madison Avenue,addr
+2709335817,postcode,10016,addr
+2709335817,housenumber,149,addr
+2709629946,street,West 39th Street,addr
+2709629946,postcode,10018,addr
+2709629946,housenumber,342,addr
+2709702314,street,Broadway,addr
+2709702314,postcode,10018,addr
+2709702314,housenumber,1411,addr
+2711029292,street,East 57th Street,addr
+2711029292,postcode,10022,addr
+2711029292,housenumber,300,addr
+2711136990,street,1st Avenue,addr
+2711136990,postcode,10022,addr
+2711136990,housenumber,967,addr
+2711221736,street,1st Avenue,addr
+2711221736,postcode,10022,addr
+2711221736,housenumber,899,addr
+2711225192,street,1st Avenue,addr
+2711225192,postcode,10022,addr
+2711225192,housenumber,939,addr
+2711692885,street,East 44th Street,addr
+2711692885,postcode,10017,addr
+2711692885,housenumber,338,addr
+2714855337,street,Madison Avenue,addr
+2714855337,postcode,10017,addr
+2714855337,housenumber,317,addr
+2715512050,street,Lexington Avenue,addr
+2715512050,postcode,10022,addr
+2715512050,housenumber,550,addr
+2717355339,street,West 52nd Street,addr
+2717355339,postcode,10019,addr
+2717355339,housenumber,201,addr
+2717542706,street,Avenue Of The Americas,addr
+2717542706,postcode,10036,addr
+2717542706,housenumber,1140,addr
+2718017518,street,Lexington Avenue,addr
+2718017518,postcode,10022,addr
+2718017518,housenumber,722,addr
+2718050671,street,East 63rd Street,addr
+2718050671,postcode,10065,addr
+2718050671,housenumber,166,addr
+2723782881,street,2nd Avenue,addr
+2723782881,postcode,10021,addr
+2723782881,housenumber,1440,addr
+2723858445,street,Madison Avenue,addr
+2723858445,postcode,10065,addr
+2723858445,housenumber,773,addr
+2723870216,street,Park Avenue,addr
+2723870216,postcode,10021,addr
+2723870216,housenumber,772,addr
+2723918770,street,East 71st Street,addr
+2723918770,postcode,10021,addr
+2723918770,housenumber,75,addr
+2724006818,street,1st Avenue,addr
+2724006818,postcode,10028,addr
+2724006818,housenumber,1602,addr
+2724108105,street,East 91st Street,addr
+2724108105,postcode,10128,addr
+2724108105,housenumber,303A,addr
+2724131091,street,East 93rd Street,addr
+2724131091,postcode,10128,addr
+2724131091,housenumber,168A,addr
+2724236671,street,East 86th Street,addr
+2724236671,postcode,10028,addr
+2724236671,housenumber,179A,addr
+2724249554,street,5th Avenue,addr
+2724249554,postcode,10028,addr
+2724249554,housenumber,1039,addr
+2724283920,street,Park Avenue,addr
+2724283920,postcode,10029,addr
+2724283920,housenumber,1246B,addr
+2730340849,name,Cafe Clair,regular
+2730340849,shop,deli,regular
+2730340849,city,Montclair,addr
+2730340849,street,Watchung Avenue,addr
+2730340849,postcode,07042,addr
+2730340849,opening_hours,"Mon - Fri, 6am - 9pm; Sat, 6am - 8am; Sun, 6am - 7pm",regular
+2730340849,housenumber,121,addr
+2745404401,street,Central Park West,addr
+2745404401,postcode,10023,addr
+2745404401,housenumber,150,addr
+2745436339,street,West 75th Street,addr
+2745436339,postcode,10023,addr
+2745436339,housenumber,164,addr
+2758302132,street,Columbus Avenue,addr
+2758302132,postcode,10024,addr
+2758302132,housenumber,586,addr
+2758620395,street,West 81st Street,addr
+2758620395,postcode,10024,addr
+2758620395,housenumber,267,addr
+2759204798,name,Gary Null's Uptown Whole Foods,regular
+2759204798,shop,supermarket,regular
+2759204798,phone,+1 212 874 4000,regular
+2759204798,city,New York,addr
+2759204798,state,NY,addr
+2759204798,street,Broadway,addr
+2759204798,country,US,addr
+2759204798,postcode,10024,addr
+2759204798,housenumber,2421,addr
+2759283463,city,New York,addr
+2759283463,state,NY,addr
+2759283463,street,Riverside Drive,addr
+2759283463,country,US,addr
+2759283463,postcode,10025,addr
+2759283463,housenumber,190,addr
+2759522503,street,West 99th Street,addr
+2759522503,postcode,10025,addr
+2759522503,housenumber,200,addr
+2761502155,street,West End Avenue,addr
+2761502155,postcode,10025,addr
+2761502155,housenumber,878,addr
+2761508159,street,Columbus Avenue,addr
+2761508159,postcode,10025,addr
+2761508159,housenumber,852,addr
+2761564515,street,Broadway,addr
+2761564515,postcode,10025,addr
+2761564515,housenumber,2752,addr
+2762328008,street,2nd Avenue,addr
+2762328008,postcode,10029,addr
+2762328008,housenumber,2121,addr
+2765392414,street,3rd Avenue,addr
+2765392414,postcode,10029,addr
+2765392414,housenumber,2095,addr
+2765449305,street,East 114th Street,addr
+2765449305,postcode,10029,addr
+2765449305,housenumber,407,addr
+2765578637,street,East 124th Street,addr
+2765578637,postcode,10035,addr
+2765578637,housenumber,183,addr
+2767432848,street,Morningside Avenue,addr
+2767432848,postcode,10027,addr
+2767432848,housenumber,98,addr
+2767633763,street,Malcolm X Boulevard,addr
+2767633763,postcode,10037,addr
+2767633763,housenumber,482B,addr
+2767720100,street,Frederick Douglass Boulevard,addr
+2767720100,postcode,10030,addr
+2767720100,housenumber,2552,addr
+2768088718,street,West 141st Street,addr
+2768088718,postcode,10030,addr
+2768088718,housenumber,201,addr
+2768338990,street,Broadway,addr
+2768338990,postcode,10031,addr
+2768338990,housenumber,3486,addr
+2768395220,street,Amsterdam Avenue,addr
+2768395220,postcode,10027,addr
+2768395220,housenumber,1330,addr
+2793692881,street,Franklin Street,addr
+2793692881,postcode,11222,addr
+2793692881,housenumber,200,addr
+2796607393,street,West 114th Street,addr
+2796607393,postcode,10027,addr
+2796607393,housenumber,515,addr
+2796741538,street,Amsterdam Avenue,addr
+2796741538,postcode,10032,addr
+2796741538,housenumber,1995A,addr
+2796759885,street,Broadway,addr
+2796759885,postcode,10032,addr
+2796759885,housenumber,3845,addr
+2796929075,street,Riverside Drive,addr
+2796929075,postcode,10032,addr
+2796929075,housenumber,810,addr
+2797238753,street,Amsterdam Avenue,addr
+2797238753,postcode,10033,addr
+2797238753,housenumber,2346,addr
+2797243192,street,Saint Nicholas Avenue,addr
+2797243192,postcode,10033,addr
+2797243192,housenumber,1281,addr
+2797453111,street,West 138th Street,addr
+2797453111,postcode,10031,addr
+2797453111,housenumber,633,addr
+2797476227,street,West 180th Street,addr
+2797476227,postcode,10033,addr
+2797476227,housenumber,724,addr
+2797563209,street,Bennett Avenue,addr
+2797563209,postcode,10033,addr
+2797563209,housenumber,51,addr
+2797589496,street,West 181st Street,addr
+2797589496,postcode,10033,addr
+2797589496,housenumber,801,addr
+2797628466,street,West 187th Street,addr
+2797628466,postcode,10033,addr
+2797628466,housenumber,612,addr
+2797689489,street,Broadway,addr
+2797689489,postcode,10040,addr
+2797689489,housenumber,4534,addr
+2797737669,street,Dyckman Street,addr
+2797737669,postcode,10034,addr
+2797737669,housenumber,153,addr
+2797784810,street,Sherman Avenue,addr
+2797784810,postcode,10034,addr
+2797784810,housenumber,231,addr
+2798860267,street,Saint Marys Street,addr
+2798860267,postcode,10454,addr
+2798860267,housenumber,730,addr
+2798941535,street,East 141st Street,addr
+2798941535,postcode,10454,addr
+2798941535,housenumber,452,addr
+2799018010,street,3rd Avenue,addr
+2799018010,postcode,10451,addr
+2799018010,housenumber,2535,addr
+2799116259,street,East 143rd Street,addr
+2799116259,postcode,10451,addr
+2799116259,housenumber,291,addr
+2799259428,street,Willis Avenue,addr
+2799259428,postcode,10455,addr
+2799259428,housenumber,508A,addr
+2799450535,street,Gerard Avenue,addr
+2799450535,postcode,10451,addr
+2799450535,housenumber,750,addr
+2799638269,street,Brook Avenue,addr
+2799638269,postcode,10451,addr
+2799638269,housenumber,973,addr
+2799648531,street,Morris Avenue,addr
+2799648531,postcode,10451,addr
+2799648531,housenumber,928B,addr
+2799822033,street,Morris Avenue,addr
+2799822033,postcode,10456,addr
+2799822033,housenumber,1189,addr
+2799850037,street,East 167th Street,addr
+2799850037,postcode,10452,addr
+2799850037,housenumber,74,addr
+2799850850,street,East 165th Street,addr
+2799850850,postcode,10452,addr
+2799850850,housenumber,99,addr
+2806232805,street,Aldus Street,addr
+2806232805,postcode,10459,addr
+2806232805,housenumber,944,addr
+2806238169,street,Westchester Avenue,addr
+2806238169,postcode,10459,addr
+2806238169,housenumber,989,addr
+2806523917,street,East 173rd Street,addr
+2806523917,postcode,10460,addr
+2806523917,housenumber,995,addr
+2806577361,street,Franklin Avenue,addr
+2806577361,postcode,10456,addr
+2806577361,housenumber,1325,addr
+2806675569,street,Clay Avenue,addr
+2806675569,postcode,10457,addr
+2806675569,housenumber,1667,addr
+2806849609,street,Mapes Avenue,addr
+2806849609,postcode,10460,addr
+2806849609,housenumber,2126,addr
+2806952539,street,East 180th Street,addr
+2806952539,postcode,10457,addr
+2806952539,housenumber,594,addr
+2806990920,street,East 176th Street,addr
+2806990920,postcode,10457,addr
+2806990920,housenumber,489,addr
+2807070329,street,Bathgate Avenue,addr
+2807070329,postcode,10458,addr
+2807070329,housenumber,2420,addr
+2807284040,street,Tiebout Avenue,addr
+2807284040,postcode,10457,addr
+2807284040,housenumber,2100,addr
+2807512157,street,Grand Concourse,addr
+2807512157,postcode,10453,addr
+2807512157,housenumber,1777,addr
+2807602695,street,West 181st Street,addr
+2807602695,postcode,10453,addr
+2807602695,housenumber,27,addr
+2807605807,street,Grand Concourse,addr
+2807605807,postcode,10468,addr
+2807605807,housenumber,2403,addr
+2807618259,housenumber,3,addr
+2807618259,postcode,10468,addr
+2807618259,state,NY,addr
+2807618259,street,West 183rd Street,addr
+2807618259,cuisine,caribbean,regular
+2807618259,name,G Tax,regular
+2807618259,office,accountant,regular
+2809372467,street,East 194th Street,addr
+2809372467,postcode,10458,addr
+2809372467,housenumber,305,addr
+2809386921,street,East 198th Street,addr
+2809386921,postcode,10458,addr
+2809386921,housenumber,280,addr
+2809717121,street,East 198th Street,addr
+2809717121,postcode,10458,addr
+2809717121,housenumber,277,addr
+2809824771,street,Oliver Place,addr
+2809824771,postcode,10458,addr
+2809824771,housenumber,381,addr
+2809859768,street,Hull Avenue,addr
+2809859768,postcode,10467,addr
+2809859768,housenumber,3092,addr
+2810036959,street,East 208th Street,addr
+2810036959,postcode,10467,addr
+2810036959,housenumber,144,addr
+2810058333,street,East Gun Hill Road,addr
+2810058333,postcode,10467,addr
+2810058333,housenumber,16A,addr
+2810072663,street,West 238th Street,addr
+2810072663,postcode,10463,addr
+2810072663,housenumber,238,addr
+2810094624,street,West 231st Street,addr
+2810094624,postcode,10463,addr
+2810094624,housenumber,261,addr
+2811347376,street,Liebig Avenue,addr
+2811347376,postcode,10471,addr
+2811347376,housenumber,6041,addr
+2811370836,street,West 262nd Street,addr
+2811370836,postcode,10471,addr
+2811370836,housenumber,301,addr
+2816666757,street,Bussing Avenue,addr
+2816666757,postcode,10466,addr
+2816666757,housenumber,1801,addr
+2816875879,street,East 233rd Street,addr
+2816875879,postcode,10466,addr
+2816875879,housenumber,1605,addr
+2816894539,street,Merritt Avenue,addr
+2816894539,postcode,10466,addr
+2816894539,housenumber,3755,addr
+2818577546,street,31st Street,addr
+2818577546,postcode,11106,addr
+2818577546,housenumber,32-12,addr
+2822605939,street,White Plains Road,addr
+2822605939,postcode,10466,addr
+2822605939,housenumber,4246,addr
+2822799589,street,Laconia Avenue,addr
+2822799589,postcode,10466,addr
+2822799589,housenumber,3983,addr
+2822878243,street,Carpenter Avenue,addr
+2822878243,postcode,10466,addr
+2822878243,housenumber,4014,addr
+2822914757,street,Kepler Avenue,addr
+2822914757,postcode,10470,addr
+2822914757,housenumber,4310,addr
+2823190286,street,Oakley Street,addr
+2823190286,postcode,10469,addr
+2823190286,housenumber,1482,addr
+2823448499,street,Church Street,addr
+2823448499,postcode,10007,addr
+2823448499,housenumber,113,addr
+2824641164,street,Cedar Street,addr
+2824641164,postcode,10006,addr
+2824641164,housenumber,111,addr
+2825233339,street,Gold Street,addr
+2825233339,postcode,10038,addr
+2825233339,housenumber,87,addr
+2826472409,street,Division Street,addr
+2826472409,postcode,10002,addr
+2826472409,housenumber,13A,addr
+2826842008,street,Suffolk Street,addr
+2826842008,postcode,10002,addr
+2826842008,housenumber,151,addr
+2827530625,street,Van Brunt Street,addr
+2827530625,postcode,11231,addr
+2827530625,housenumber,329,addr
+2827624734,street,Centre Mall,addr
+2827624734,postcode,11231,addr
+2827624734,housenumber,93,addr
+2837699757,name,P.C. Richard & Son,regular
+2837699757,shop,hifi,regular
+2838067300,street,Wythe Place,addr
+2838067300,postcode,11249,addr
+2838067300,housenumber,636,addr
+2838336237,street,Broadway,addr
+2838336237,postcode,11211,addr
+2838336237,housenumber,291,addr
+2838616949,street,Flushing Avenue,addr
+2838616949,postcode,11206,addr
+2838616949,housenumber,851,addr
+2839741347,street,Gardner Avenue,addr
+2839741347,postcode,11237,addr
+2839741347,housenumber,161,addr
+2840467429,name,190th St (A) lower level,regular
+2840467429,railway,subway_entrance,regular
+2840985165,street,Humboldt Street,addr
+2840985165,postcode,11211,addr
+2840985165,housenumber,438A,addr
+2842175044,street,Union Avenue,addr
+2842175044,postcode,11211,addr
+2842175044,housenumber,402,addr
+2842785642,street,Mc Guinness Boulevard,addr
+2842785642,postcode,11222,addr
+2842785642,housenumber,292A,addr
+2843081289,street,Clay Street,addr
+2843081289,postcode,11222,addr
+2843081289,housenumber,75,addr
+2843107681,street,49th Street,addr
+2843107681,postcode,11378,addr
+2843107681,housenumber,58-10,addr
+2843120000,street,Grove Street,addr
+2843120000,postcode,11385,addr
+2843120000,housenumber,60-02,addr
+2844038901,street,Woodhaven Boulevard,addr
+2844038901,postcode,11379,addr
+2844038901,housenumber,62-24,addr
+2844045079,street,61st Road,addr
+2844045079,postcode,11379,addr
+2844045079,housenumber,84-30,addr
+2844304433,street,57th Avenue,addr
+2844304433,postcode,11373,addr
+2844304433,housenumber,74-01,addr
+2844565201,street,47th Avenue,addr
+2844565201,postcode,11377,addr
+2844565201,housenumber,70-20,addr
+2844942068,street,46th Street,addr
+2844942068,postcode,11104,addr
+2844942068,housenumber,45-04,addr
+2844971036,street,Queens Boulevard,addr
+2844971036,postcode,11104,addr
+2844971036,housenumber,39-28,addr
+2844992928,street,Queens Boulevard,addr
+2844992928,postcode,11104,addr
+2844992928,housenumber,47-01,addr
+2845177378,street,Northern Boulevard,addr
+2845177378,postcode,11377,addr
+2845177378,housenumber,54-01,addr
+2846041450,street,Christie Avenue,addr
+2846041450,postcode,11368,addr
+2846041450,housenumber,97-02,addr
+2846188475,street,Reeder Street,addr
+2846188475,postcode,11373,addr
+2846188475,housenumber,51-32,addr
+2846205659,street,Justice Avenue,addr
+2846205659,postcode,11373,addr
+2846205659,housenumber,86-03,addr
+2846283628,street,83rd Street,addr
+2846283628,postcode,11373,addr
+2846283628,housenumber,45-13,addr
+2846364481,street,Broadway,addr
+2846364481,postcode,11373,addr
+2846364481,housenumber,74-32,addr
+2846384393,street,60th Street,addr
+2846384393,postcode,11377,addr
+2846384393,housenumber,31-45,addr
+2846402150,street,51st Street,addr
+2846402150,postcode,11377,addr
+2846402150,housenumber,30-84,addr
+2846430732,street,50th Street,addr
+2846430732,postcode,11377,addr
+2846430732,housenumber,28-25,addr
+2846534242,street,30th Road,addr
+2846534242,postcode,11103,addr
+2846534242,housenumber,44-01,addr
+2846566329,street,28th Avenue,addr
+2846566329,postcode,11103,addr
+2846566329,housenumber,42-11,addr
+2846965686,street,28th Street,addr
+2846965686,postcode,11106,addr
+2846965686,housenumber,35-59,addr
+2847058541,street,54th Avenue,addr
+2847058541,postcode,11101,addr
+2847058541,housenumber,5-50,addr
+2847083654,street,49th Avenue,addr
+2847083654,postcode,11101,addr
+2847083654,housenumber,5-02,addr
+2847093144,street,21st Street,addr
+2847093144,postcode,11101,addr
+2847093144,housenumber,49-01,addr
+2847155426,street,Vernon Boulevard,addr
+2847155426,postcode,11101,addr
+2847155426,housenumber,38-09,addr
+2847191315,street,Crescent Street,addr
+2847191315,postcode,11101,addr
+2847191315,housenumber,40-27,addr
+2852989212,street,21st Street,addr
+2852989212,postcode,11101,addr
+2852989212,housenumber,44-01,addr
+2853017742,street,Vernon Boulevard,addr
+2853017742,postcode,11101,addr
+2853017742,housenumber,46-18,addr
+2853049674,street,45th Avenue,addr
+2853049674,postcode,11101,addr
+2853049674,housenumber,23-24,addr
+2853070247,street,9th Street,addr
+2853070247,postcode,11106,addr
+2853070247,housenumber,33-51,addr
+2853082014,street,27th Avenue,addr
+2853082014,postcode,11102,addr
+2853082014,housenumber,3-04,addr
+2853133628,street,37th Street,addr
+2853133628,postcode,11105,addr
+2853133628,housenumber,22-02,addr
+2853271794,street,Crescent Street,addr
+2853271794,postcode,11105,addr
+2853271794,housenumber,20-51,addr
+2853426889,street,21st Avenue,addr
+2853426889,postcode,11370,addr
+2853426889,housenumber,76-02A,addr
+2853435880,street,79th Street,addr
+2853435880,postcode,11370,addr
+2853435880,housenumber,25-13,addr
+2853548944,street,Gillmore Street,addr
+2853548944,postcode,11369,addr
+2853548944,housenumber,29-40,addr
+2855576239,street,Fenton Avenue,addr
+2855576239,postcode,10469,addr
+2855576239,housenumber,3435,addr
+2855766953,street,Adee Avenue,addr
+2855766953,postcode,10469,addr
+2855766953,housenumber,1800,addr
+2856756386,ele,37,regular
+2856756386,name,Middle School 135,regular
+2856756386,amenity,school,regular
+2856756386,street,Wallace Avenue,addr
+2856756386,created,01/23/1980,gnis
+2856756386,postcode,10467,addr
+2856756386,state_id,36,gnis
+2856756386,county_id,005,gnis
+2856756386,feature_id,954254,gnis
+2856756386,housenumber,2441,addr
+2857006224,street,Rhinelander Avenue,addr
+2857006224,postcode,10461,addr
+2857006224,housenumber,1121,addr
+2857070541,street,Morris Park Avenue,addr
+2857070541,postcode,10462,addr
+2857070541,housenumber,1001,addr
+2858050253,street,Morris Park Avenue,addr
+2858050253,postcode,10462,addr
+2858050253,housenumber,770,addr
+2858079141,street,Morris Park Avenue,addr
+2858079141,postcode,10460,addr
+2858079141,housenumber,618,addr
+2858119635,street,Glover Street,addr
+2858119635,postcode,10462,addr
+2858119635,housenumber,1561,addr
+2858135694,street,Unionport Road,addr
+2858135694,postcode,10462,addr
+2858135694,housenumber,1404,addr
+2858143977,street,East Tremont Avenue,addr
+2858143977,postcode,10461,addr
+2858143977,housenumber,3005B,addr
+2858232814,street,Westchester Avenue,addr
+2858232814,postcode,10462,addr
+2858232814,housenumber,1973,addr
+2858309208,street,Archer Street,addr
+2858309208,postcode,10462,addr
+2858309208,housenumber,1860,addr
+2858397376,street,East 180th Street,addr
+2858397376,postcode,10460,addr
+2858397376,housenumber,1409,addr
+2858433903,street,Pugsley Avenue,addr
+2858433903,postcode,10473,addr
+2858433903,housenumber,900,addr
+2858556507,street,Taylor Avenue,addr
+2858556507,postcode,10472,addr
+2858556507,housenumber,1311,addr
+2860177824,highway,crossing,regular
+2860177824,crossing,zebra,regular
+2860221390,street,Bryant Avenue,addr
+2860221390,postcode,10474,addr
+2860221390,housenumber,878,addr
+2860235816,street,Bryant Avenue,addr
+2860235816,postcode,10474,addr
+2860235816,housenumber,800,addr
+2860242800,street,Spofford Avenue,addr
+2860242800,postcode,10474,addr
+2860242800,housenumber,1355,addr
+2860419648,street,Miles Avenue,addr
+2860419648,postcode,10465,addr
+2860419648,housenumber,2776,addr
+2860432109,street,Quincy Avenue,addr
+2860432109,postcode,10465,addr
+2860432109,housenumber,258,addr
+2860455885,street,Kearney Avenue,addr
+2860455885,postcode,10465,addr
+2860455885,housenumber,164,addr
+2860492445,street,Reynolds Avenue,addr
+2860492445,postcode,10465,addr
+2860492445,housenumber,272,addr
+2860649476,street,Clarence Avenue,addr
+2860649476,postcode,10465,addr
+2860649476,housenumber,811A,addr
+2860668051,street,Bruckner Boulevard,addr
+2860668051,postcode,10465,addr
+2860668051,housenumber,2948,addr
+2860701239,street,Wilcox Avenue,addr
+2860701239,postcode,10465,addr
+2860701239,housenumber,940,addr
+2860748282,street,Ampere Avenue,addr
+2860748282,postcode,10465,addr
+2860748282,housenumber,3288,addr
+2860863297,street,Zulette Avenue,addr
+2860863297,postcode,10461,addr
+2860863297,housenumber,2982,addr
+2861113976,street,Bartow Avenue,addr
+2861113976,postcode,10475,addr
+2861113976,housenumber,2132,addr
+2862122914,street,102nd Street,addr
+2862122914,postcode,11416,addr
+2862122914,housenumber,95-01,addr
+2862155702,street,Atlantic Avenue,addr
+2862155702,postcode,11416,addr
+2862155702,housenumber,91-08,addr
+2862275183,street,Liberty Avenue,addr
+2862275183,postcode,11419,addr
+2862275183,housenumber,122-20,addr
+2862350696,street,115th Avenue,addr
+2862350696,postcode,11420,addr
+2862350696,housenumber,126-02,addr
+2862385927,street,127th Street,addr
+2862385927,postcode,11420,addr
+2862385927,housenumber,109-23,addr
+2862416155,street,133rd Street,addr
+2862416155,postcode,11420,addr
+2862416155,housenumber,115-10,addr
+2863260460,street,Redding Street,addr
+2863260460,postcode,11417,addr
+2863260460,housenumber,137-14,addr
+2868400855,street,95th Avenue,addr
+2868400855,postcode,11435,addr
+2868400855,housenumber,149-02,addr
+2868420136,street,107th Avenue,addr
+2868420136,postcode,11433,addr
+2868420136,housenumber,154-02,addr
+2868432988,street,159th Street,addr
+2868432988,postcode,11433,addr
+2868432988,housenumber,107-47,addr
+2868571710,street,115th Avenue,addr
+2868571710,postcode,11434,addr
+2868571710,housenumber,168-02,addr
+2868589419,street,Smith Street,addr
+2868589419,postcode,11434,addr
+2868589419,housenumber,119-38,addr
+2868990006,street,234th Street,addr
+2868990006,postcode,11422,addr
+2868990006,housenumber,128-63,addr
+2869527804,street,120th Road,addr
+2869527804,postcode,11412,addr
+2869527804,housenumber,188-05,addr
+2869607017,street,176th Street,addr
+2869607017,postcode,11434,addr
+2869607017,housenumber,127-01,addr
+2870497079,street,Farmers Boulevard,addr
+2870497079,postcode,11412,addr
+2870497079,housenumber,111-21A,addr
+2870524545,street,Jamaica Avenue,addr
+2870524545,postcode,11423,addr
+2870524545,housenumber,199-02,addr
+2870851785,street,Queens Boulevard,addr
+2870851785,postcode,11375,addr
+2870851785,housenumber,112-18,addr
+2870867717,street,129th Street,addr
+2870867717,postcode,11415,addr
+2870867717,housenumber,84-07,addr
+2870933709,street,134th Street,addr
+2870933709,postcode,11435,addr
+2870933709,housenumber,82-05,addr
+2871192123,street,217th Street,addr
+2871192123,postcode,11428,addr
+2871192123,housenumber,93-02,addr
+2878599344,highway,crossing,regular
+2878599344,crossing,zebra,regular
+2881818945,street,209th Street,addr
+2881818945,postcode,11361,addr
+2881818945,housenumber,40-07A,addr
+2882039912,street,201st Street,addr
+2882039912,postcode,11361,addr
+2882039912,housenumber,40-25C,addr
+2882463305,street,Crocheron Avenue,addr
+2882463305,postcode,11358,addr
+2882463305,housenumber,166-05,addr
+2882522606,street,162nd Street,addr
+2882522606,postcode,11358,addr
+2882522606,housenumber,41-25,addr
+2882564263,street,45th Avenue,addr
+2882564263,postcode,11355,addr
+2882564263,housenumber,157-21,addr
+2882571893,street,Union Street,addr
+2882571893,postcode,11355,addr
+2882571893,housenumber,45-01,addr
+2882602257,city,Flushing,addr
+2882602257,state,NY,addr
+2882602257,street,45th Avenue,addr
+2882602257,postcode,11355,addr
+2882602257,housenumber,146-36,addr
+2882628808,street,Bowne Street,addr
+2882628808,postcode,11355,addr
+2882628808,housenumber,41-86,addr
+2882693595,street,200th Street,addr
+2882693595,postcode,11357,addr
+2882693595,housenumber,16-30,addr
+2883444672,street,Union Street,addr
+2883444672,postcode,11354,addr
+2883444672,housenumber,40-34,addr
+2883502178,street,Booth Memorial Avenue,addr
+2883502178,postcode,11355,addr
+2883502178,housenumber,135-28,addr
+2883536222,street,202nd Street,addr
+2883536222,postcode,11360,addr
+2883536222,housenumber,21-02,addr
+2883600451,street,14th Road,addr
+2883600451,postcode,11357,addr
+2883600451,housenumber,167-03,addr
+2883614987,street,14th Avenue,addr
+2883614987,postcode,11357,addr
+2883614987,housenumber,150-16,addr
+2883647862,street,147th Street,addr
+2883647862,postcode,11357,addr
+2883647862,housenumber,17-22,addr
+2883715317,street,15th Avenue,addr
+2883715317,postcode,11356,addr
+2883715317,housenumber,125-13,addr
+2883913614,street,College Point Boulevard,addr
+2883913614,postcode,11356,addr
+2883913614,housenumber,18-53,addr
+2884017666,street,104th Street,addr
+2884017666,postcode,11368,addr
+2884017666,housenumber,48-32,addr
+2884326996,street,Junction Boulevard,addr
+2884326996,postcode,11372,addr
+2884326996,housenumber,33-11,addr
+2884439214,street,Van Nostrand Court,addr
+2884439214,postcode,11362,addr
+2884439214,housenumber,14,addr
+2884474326,street,Oak Lane,addr
+2884474326,postcode,11363,addr
+2884474326,housenumber,240-63,addr
+2885272749,street,Adler Place,addr
+2885272749,postcode,10475,addr
+2885272749,housenumber,38,addr
+2885504143,street,Lacombe Avenue,addr
+2885504143,postcode,10473,addr
+2885504143,housenumber,1711,addr
+2887158295,street,Beach 9th Street,addr
+2887158295,postcode,11691,addr
+2887158295,housenumber,341,addr
+2887169478,street,Beach 15th Street,addr
+2887169478,postcode,11691,addr
+2887169478,housenumber,256,addr
+2887176925,street,Beach 20th Street,addr
+2887176925,postcode,11691,addr
+2887176925,housenumber,400,addr
+2887196404,street,Central Avenue,addr
+2887196404,postcode,11691,addr
+2887196404,housenumber,1335,addr
+2887424185,street,West 9th Road,addr
+2887424185,postcode,11693,addr
+2887424185,housenumber,28,addr
+2887449132,street,Beach 70th Street,addr
+2887449132,postcode,11692,addr
+2887449132,housenumber,360,addr
+2887564669,street,Rockaway Beach Boulevard,addr
+2887564669,postcode,11694,addr
+2887564669,housenumber,99-04A,addr
+2887582756,street,Beach 117th Street,addr
+2887582756,postcode,11694,addr
+2887582756,housenumber,125,addr
+2888069181,street,Batchelder Street,addr
+2888069181,postcode,11235,addr
+2888069181,housenumber,2560,addr
+2888097355,street,East 16th Street,addr
+2888097355,postcode,11235,addr
+2888097355,housenumber,2601,addr
+2891718102,barrier,gate,regular
+2953641265,railway,switch,regular
+2969609920,railway,buffer_stop,regular
+2987751331,railway,buffer_stop,regular
+2993041723,railway,signal,regular
+2993041723,signal:form,light,railway
+2993041723,signal:height,normal,railway
+2993041723,signal:system,position_light,railway
+2993041723,signal:position,overhead,railway
+2993041723,signal:direction,backward,railway
+3012552183,name,The Graham,regular
+3012552183,amenity,bar,regular
+3032878308,building,residential,regular
+3032878308,street,Orchard Drive,addr
+3032878308,housenumber,15,addr
+3039736190,railway,switch,regular
+3039736190,switch,default,railway
+3039736190,turnout_side,left,railway
+3039736190,local_operated,yes,railway
+3039736190,switch:electric,no,railway
+3039736190,switch:movable_frog,no,railway
+3039736190,switch:configuration,inside,railway
+3039737090,name,25th Street,regular
+3039737090,tram,no,regular
+3039737090,train,no,regular
+3039737090,subway,yes,regular
+3039737090,railway,stop,regular
+3039737090,end_date,1940-05-31,regular
+3039737090,historic,yes,regular
+3039737090,operator,Brooklyn-Manhattan Transit Company,regular
+3039737090,light_rail,no,regular
+3039737090,public_transport,stop_position,regular
+3041970079,barrier,gate,regular
+3058719826,name,The Beekman Pub,regular
+3058719826,amenity,pub,regular
+3058719826,website,http://www.thebeekmanpub.com/,regular
+3058719826,city,New York,addr
+3058719826,start_date,1936,regular
+3058719826,street,Beekman Street,addr
+3058719826,postcode,10038,addr
+3058719826,housenumber,15-17,addr
+3132266660,name,Sunoco,regular
+3132266660,amenity,fuel,regular
+3137740739,leisure,playground,regular
+3154320984,name,Swoon murals,regular
+3167088303,housenumber,1095,addr
+3196459741,name,Pier 32,regular
+3196459741,tourism,viewpoint,regular
+3206097692,railway,level_crossing,regular
+3413564606,natural,tree,regular
+3449108390,natural,tree,regular
+3497688298,name,Sid's Meats,regular
+3497688298,shop,butcher,regular
+3547398417,highway,traffic_signals,regular
+3570250030,highway,crossing,regular
+3570250030,crossing,traffic_signals,regular
+3573480697,emergency,fire_hydrant,regular
+3573480697,type,pillar,fire_hydrant
+3574731733,barrier,toll_booth,regular
+3587858195,city,New York,addr
+3587858195,street,3rd Avenue,addr
+3587858195,postcode,10128,addr
+3587858195,housenumber,1623,addr
+3591576870,source,survey,regular
+3591576870,emergency,fire_hydrant,regular
+3591576870,type,pillar,fire_hydrant
+3591576870,position,sidewalk,fire_hydrant
+3596708393,name,babbo,regular
+3596708393,amenity,restaurant,regular
+3596708393,city,New York,addr
+3596708393,street,Avenue D,addr
+3596708393,description,italian food,regular
+3596708393,bitcoin,yes,payment
+3596708393,housenumber,125,addr
+3601092692,barrier,gate,regular
+3601257041,natural,tree,regular
+3634676495,highway,crossing,regular
+3634676495,crossing,zebra,regular
+3638244587,natural,tree,regular
+3638322408,natural,tree,regular
+3639420820,natural,tree,regular
+3639444855,natural,tree,regular
+3651852544,barrier,gate,regular
+3656015528,highway,turning_circle,regular
+3661038144,name,Cell Phone,regular
+3661038144,shop,yes,regular
+3681530923,name,Marshalls & Homegoods,regular
+3681530923,shop,clothes,regular
+3708656696,name,Citi Bike - S 3 St & Bedford Ave,regular
+3708656696,amenity,bicycle_rental,regular
+3708656696,network,Citi Bike,regular
+3708656696,website,http://citibikenyc.com,regular
+3708656696,capacity,25,regular
+3708656696,operator,NYC Bike Share,regular
+3735208278,amenity,drinking_water,regular
+3743074852,leisure,picnic_table,regular
+3756231885,name,Gulf,regular
+3756231885,amenity,fuel,regular
+3769741759,natural,tree,regular
+3774727983,height,5,regular
+3774727983,natural,tree,regular
+3774727983,leaf_type,broadleaved,regular
+3774727983,denotation,urban,regular
+3783534963,name,Family Dollar,regular
+3783534963,shop,variety_store,regular
+3798407617,name,Koreander Restaurant,regular
+3798407617,amenity,restaurant,regular
+3798407617,city,Montclair,addr
+3798407617,state,NJ,addr
+3798407617,street,Watchung Avenue,addr
+3798407617,postcode,07043,addr
+3798407617,housenumber,128,addr
+3799525183,barrier,gate,regular
+3810290517,amenity,fountain,regular
+3830892127,name,Shake Shack,regular
+3830892127,amenity,fast_food,regular
+3830892127,cuisine,burger,regular
+3830892127,website,https://www.shakeshack.com,regular
+3836435655,name,Q16 - Fort Totten to Main St.,regular
+3836435655,bench,no,regular
+3836435655,covered,no,regular
+3836435655,highway,bus_stop,regular
+3836435655,shelter,no,regular
+3836435655,website,http://web.mta.info/nyct/service/bus/qnsche.htm,regular
+3836435655,operator,MTA,regular
+3865145166,housenumber,44-45,addr
+3865145166,street,21st Street,addr
+3865145166,amenity,fast_food,regular
+3865145166,name,Palace Chicken and Grill,regular
+3944708041,highway,crossing,regular
+3958232658,name,Starbucks,regular
+3958232658,amenity,cafe,regular
+3958232658,city,New York,addr
+3958232658,street,6th Avenue,addr
+3958232658,opening_hours,Mo-Fr 05:30-22:00; Sa-Su 06:00-22:00,regular
+3958232658,internet_access,yes,regular
+3997461345,highway,crossing,regular
+3997461345,crossing,traffic_signals,regular
+4048339335,highway,stop,regular
+4092401134,name,Walgreens,regular
+4092401134,amenity,pharmacy,regular
+4134039957,name,Davenport Avenue,regular
+4134039957,railway,station,regular
+4134039957,wheelchair,no,regular
+4136147003,highway,crossing,regular
+4136147003,crossing,traffic_signals,regular
+4145256795,street,133rd Avenue,addr
+4145256795,postcode,11434,addr
+4145256795,housenumber,172-44,addr
+4151778391,name,Ippudo,regular
+4151778391,amenity,restaurant,regular
+4151778391,street,West 51st Street,addr
+4151778391,housenumber,321,addr
+4159866304,atm,yes,regular
+4159866304,name,C‑Town Supermarkets,regular
+4159866304,shop,supermarket,regular
+4159866304,brand,C‑Town Supermarkets,regular
+4159866304,phone,+1-718-657-0722,regular
+4159866304,website,http://location.ctownsupermarkets.com/ny/jamaica/41-003/,regular
+4159866304,delivery,yes,regular
+4159866304,city,Jamaica,addr
+4159866304,state,NY,addr
+4159866304,street,Hillside Avenue,addr
+4159866304,postcode,11432,addr
+4159866304,opening_hours,Mo-Sa 7:00-21:15; Su 7:00-20:15,regular
+4159866304,housenumber,169-15,addr
+4159866304,mastercard,yes,payment
+4159866304,contactless,yes,payment
+4163902709,barrier,gate,regular
+4191917275,highway,crossing,regular
+4222595833,highway,stop,regular
+4231956390,name,PRETZEL,regular
+4231956390,shop,bakery,regular
+4240018089,name,Bus M3,regular
+4240018089,highway,bus_stop,regular
+4321038136,highway,crossing,regular
+4350105791,name,Speedway,regular
+4350105791,amenity,fuel,regular
+4351539953,barrier,gate,regular
+4353622299,barrier,gate,regular
+4355122552,sport,basketball,regular
+4355122552,leisure,pitch,regular
+4366797983,height,7,regular
+4366797983,natural,tree,regular
+4366797983,leaf_type,broadleaved,regular
+4366797983,leaf_cycle,deciduous,regular
+4393994108,highway,crossing,regular
+4393994108,crossing,zebra,regular
+4395572897,highway,crossing,regular
+4395572897,crossing,zebra,regular
+4396968938,highway,crossing,regular
+4396968938,crossing,zebra,regular
+4399001287,natural,tree,regular
+4405154105,natural,tree,regular
+4420557304,name,themexsoft,regular
+4420557304,phone,+1 205 9007007,regular
+4420557304,website,http://www.themexsoft.com,regular
+4420557304,city,Brooklyn,addr
+4420557304,state,NY,addr
+4420557304,street,Forbell Street,addr
+4420557304,description,themexsoft is an web design and development company in usa. It was established in 2003.Since then themexsoft has submitted thousands of successful projects and achieved huge number of happy clients. themexsoft is very well known for reliability.,regular
+4420557304,postcode,11208,addr
+4420557304,housenumber,200,addr
+4424423654,highway,crossing,regular
+4424423654,crossing,zebra,regular
+4449958284,name,INC American Bar and Kitchen,regular
+4449958284,level,0,regular
+4449958284,amenity,restaurant,regular
+4449958284,cuisine,american,regular
+4449958284,city,New Brunswick,addr
+4449958284,state,NJ,addr
+4449958284,street,George Street,addr
+4449958284,postcode,08901-1904,addr
+4449958284,housenumber,310,addr
+4455695376,natural,tree,regular
+4464067416,name,"34th Street - Penn Station (1,2,3)",regular
+4464067416,network,New York City Subway,regular
+4464067416,railway,station,regular
+4464067416,alt_name,Penn Station,regular
+4464067416,operator,MTA,regular
+4464067416,wikipedia,en:34th Street – Penn Station (IRT Broadway – Seventh Avenue Line),regular
+4464067416,wheelchair,yes,regular
+4484948455,amenity,police,regular
+4527585578,natural,tree,regular
+4527585578,leaf_type,broadleaved,regular
+4527585578,leaf_cycle,deciduous,regular
+4527590078,golf,tee,regular
+4528145863,fax,+1-212-268-0847,regular
+4528145863,name,"A. Davoodzadeh & Son, LLC",regular
+4528145863,shop,antiques,regular
+4528145863,phone,+1-212-268-5876,regular
+4528145863,website,http://davoodzadehrugs.com,regular
+4528145863,city,New York,addr
+4528145863,unit,902,addr
+4528145863,state,NY,addr
+4528145863,street,West 31 Street,addr
+4528145863,postcode,10001,addr
+4528145863,housenumber,25,addr
+4536376748,man_made,wastewater_plant,regular
+4539924610,man_made,surveillance,regular
+4554268995,railway,level_crossing,regular
+4557229941,name,Shell,regular
+4557229941,amenity,fuel,regular
+4568929159,name,Duane Reade,regular
+4568929159,amenity,pharmacy,regular
+4583072690,housenumber,480,addr
+4583072690,postcode,11231,addr
+4583072690,amenity,fast_food,regular
+4583072690,cuisine,grill;burger;american,regular
+4583072690,name,Pig Beach,regular
+4583072690,opening_hours,Tu-Th 15:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-22:00,regular
+4603873769,highway,turning_circle,regular
+4638335041,highway,crossing,regular
+4638335041,crossing,zebra,regular
+4648478284,entrance,yes,regular
+4658588734,tourism,picnic_site,regular
+4679523598,highway,traffic_signals,regular
+4690390179,power,tower,regular
+4722664516,natural,tree,regular
+4728612954,amenity,toilets,regular
+4760791898,ref,10,regular
+4760791898,name,Gate 10,regular
+4760791898,aeroway,gate,regular
+4781478665,name,United States Postal Service,regular
+4781478665,office,government,regular
+4781478665,amenity,post_office,regular
+4781478665,alt_name,US Post Office,regular
+4782404426,bus,yes,regular
+4782404426,ref,402165,regular
+4782404426,name,West 50th Street/10th Avenue,regular
+4782404426,highway,bus_stop,regular
+4782404426,network,NYC Transit,regular
+4782404426,operator,New York City Transit Authority,regular
+4782404426,route_ref,M50,regular
+4782404426,public_transport,platform,regular
+4787109621,name,Masha & The Bear,regular
+4787109621,amenity,bar,regular
+4787109621,street,Grand Street,addr
+4787109621,postcode,11211,addr
+4787109621,opening_hours,Mo-Fr 13:00-01:00; Sa-Su 12:00-01:00,regular
+4787109621,housenumber,771,addr
+4794426302,sport,baseball,regular
+4794426302,leisure,pitch,regular
+4799924075,natural,tree,regular
+4837099846,name,John's Automotive,regular
+4837099846,shop,car_repair,regular
+4843833724,name,Dusty Rose Vintage,regular
+4843833724,shop,clothes,regular
+4843833724,website,http://www.dustyrosevintage.com,regular
+4843833724,postcode,11222,addr
+4843833724,opening_hours,Th-Sa 12:00-19:00; Su 12:00-18:00,regular
+4843833724,housenumber,251,addr
+4847529522,name,Nelly Spillanes,regular
+4847529522,phone,+12127929673,regular
+4847529522,amenity,pub,regular
+4847529522,cuisine,irish,regular
+4847529522,website,http://www.nellyspillanes.com,regular
+4847529522,postcode,10016,addr
+4847529522,opening_hours,Mo-Su 11:00-16:00,regular
+4876338892,highway,crossing,regular
+4876338892,crossing,uncontrolled,regular
+4913377824,name,American Greetings,regular
+4913377824,shop,stationary,regular
+4913377824,floor,0,regular
+4927558991,highway,crossing,regular
+4931643672,amenity,bicycle_parking,regular
+4941288067,name,Quick Stop Food Store,regular
+4941288067,shop,convenience,regular
+4957542643,natural,tree,regular
+4957588648,natural,tree,regular
+4957603320,natural,tree,regular
+4969067237,crossing,zebra,regular
+4969067237,highway,crossing,regular
+4969312013,crossing,zebra,regular
+4969312013,highway,crossing,regular
+4971585807,highway,crossing,regular
+4980798211,crossing,zebra,regular
+4980798211,highway,crossing,regular
+4987007264,highway,crossing,regular
+4987290900,amenity,drinking_water,regular
+4991434552,highway,stop,regular
+4995779520,amenity,restaurant,regular
+4995779520,cuisine,japanese,regular
+4995779520,name,Murasaki,regular
+4995779520,phone,1 718 482 7088,regular
+4998805611,name,Specs,regular
+4998805611,shop,optician,regular
+5015160387,highway,crossing,regular
+5015659502,housenumber,262-21,addr
+5015659502,street,Hungry Harbor Road,addr
+5015659502,name,Royal Capital Group,regular
+5015659502,office,financial,regular
+5017087011,bench,no,regular
+5017087011,covered,no,regular
+5017087011,highway,bus_stop,regular
+5017087011,name,Flatbush Av & Cortelyou Rd,regular
+5017087011,operator,New York City Transit Authority,regular
+5017087011,route_ref,B41,regular
+5017087011,shelter,no,regular
+5021056563,bench,no,regular
+5021056563,highway,bus_stop,regular
+5021056563,name,Bedford Av/Gates Av,regular
+5021056563,network,New York City Transit,regular
+5021056563,operator,MTA,regular
+5021056563,route_ref,B44,regular
+5021056563,shelter,no,regular
+5021228247,bench,no,regular
+5021228247,covered,no,regular
+5021228247,highway,bus_stop,regular
+5021228247,name,Forest Avenue,regular
+5021228247,network,New York City Transit,regular
+5021228247,operator,MTA,regular
+5021228247,shelter,no,regular
+5021228247,wheelchair,yes,regular
+5031334616,highway,stop,regular
+5033544737,access,permissive,regular
+5033544737,amenity,bicycle_parking,regular
+5033544737,bicycle_parking,rack,regular
+5033544737,capacity,5,regular
+5033544737,covered,no,regular
+5033544737,source,Mapillary,regular
+5067873555,emergency,fire_hydrant,regular
