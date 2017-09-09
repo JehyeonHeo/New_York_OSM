@@ -4465,7 +4465,6 @@ id,key,value,type
 90551802,bicycle,no,regular
 90551802,highway,motorway,regular
 90551802,surface,concrete:plates,regular
-90551802,maxspeed,signals mph,regular
 90551802,sidewalk,no,regular
 90551802,NJDOT_SRI,00000095,regular
 90551802,cfcc,A15:A15;A11:A19,tiger
@@ -26574,7 +26573,6 @@ id,key,value,type
 459669675,frequency,25,regular
 459669675,designation,1,regular
 459669675,electrified,contact_line,regular
-459669675,maxspeed,Amtrak ETT 2010-01-18 mph,source
 459669675,old_railway_operator,PRR,regular
 460019757,source,NJ2002LULC,regular
 460019757,natural,scrub,regular
