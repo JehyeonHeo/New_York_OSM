@@ -1,2 +1,7 @@
 New_York.osm
 .ipynb_checkpoints
+New_York_sample.osm
+samples
+small_samples
+*.osm
+*.csv
