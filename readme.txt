@@ -12,7 +12,7 @@
 
 Project Title
 
-One Paragraph of project description goes here
+Data wrangling practice with New York OpenStreetMap data.
 
 Getting Started
 
