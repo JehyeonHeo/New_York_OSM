@@ -15,6 +15,8 @@ Prerequisites
 
 - Give examples
 
+- Jupyter notebook, sqlite3
+
 Installing
 
 - A step by step series of examples that tell you have to get a development env running
@@ -65,7 +67,7 @@ Versioning
 
 - We use SemVer for versioning. For the versions available, see the tags on this repository.
 
-Authors
+Author
 
 - JehyeonHeo
 
