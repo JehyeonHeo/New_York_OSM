@@ -1755,7 +1755,7 @@ id,key,value,type
 11696141,is_in,Gillette,regular
 11696141,highway,residential,regular
 11696141,cfcc,A41,tiger
-11696141,postal_code,07933,regular
+11696141,postcode,07933,regular
 11696141,county,"Morris, NJ",tiger
 11696141,reviewed,no,tiger
 11696141,name_base,Broadview,tiger
@@ -4465,6 +4465,7 @@ id,key,value,type
 90551802,bicycle,no,regular
 90551802,highway,motorway,regular
 90551802,surface,concrete:plates,regular
+90551802,maxspeed,signals,regular
 90551802,sidewalk,no,regular
 90551802,NJDOT_SRI,00000095,regular
 90551802,cfcc,A15:A15;A11:A19,tiger
@@ -4707,7 +4708,7 @@ id,key,value,type
 149708327,usage,main,regular
 149708327,railway,rail,regular
 149708327,voltage,12000,regular
-149708327,maxspeed,201 mph,regular
+149708327,maxspeed,201,regular
 149708327,operator,Amtrak,regular
 149708327,frequency,25,regular
 149708327,highspeed,yes,regular
@@ -5895,7 +5896,7 @@ id,key,value,type
 243735454,usage,main,regular
 243735454,railway,rail,regular
 243735454,voltage,12500,regular
-243735454,maxspeed,160 mph,regular
+243735454,maxspeed,160,regular
 243735454,operator,Amtrak,regular
 243735454,frequency,60,regular
 243735454,highspeed,yes,regular
@@ -26255,7 +26256,7 @@ id,key,value,type
 440084117,highway,service,regular
 440084117,service,driveway,regular
 440084117,surface,asphalt,regular
-440084117,maxspeed,15 mph,regular
+440084117,maxspeed,15,regular
 440084117,smoothness,good,regular
 440198055,building,yes,regular
 440273762,lanes,1,regular
@@ -26264,7 +26265,7 @@ id,key,value,type
 440273762,highway,service,regular
 440273762,service,driveway,regular
 440273762,surface,asphalt,regular
-440273762,maxspeed,15 mph,regular
+440273762,maxspeed,15,regular
 440273762,smoothness,good,regular
 440375198,lanes,1,regular
 440375198,access,destination,regular
@@ -26272,7 +26273,7 @@ id,key,value,type
 440375198,highway,service,regular
 440375198,service,driveway,regular
 440375198,surface,asphalt,regular
-440375198,maxspeed,15 mph,regular
+440375198,maxspeed,15,regular
 440375198,smoothness,good,regular
 440510190,building,yes,regular
 440570526,building,yes,regular
@@ -26301,7 +26302,7 @@ id,key,value,type
 440879317,highway,service,regular
 440879317,service,driveway,regular
 440879317,surface,asphalt,regular
-440879317,maxspeed,15 mph,regular
+440879317,maxspeed,15,regular
 440879317,smoothness,good,regular
 441525754,name,Totten Street,regular
 441525754,highway,residential,regular
@@ -26350,7 +26351,7 @@ id,key,value,type
 443799234,highway,service,regular
 443799234,service,driveway,regular
 443799234,surface,asphalt,regular
-443799234,maxspeed,15 mph,regular
+443799234,maxspeed,15,regular
 443799234,smoothness,good,regular
 444075153,building,yes,regular
 444196623,building,yes,regular
@@ -26573,6 +26574,7 @@ id,key,value,type
 459669675,frequency,25,regular
 459669675,designation,1,regular
 459669675,electrified,contact_line,regular
+459669675,maxspeed,Amtrak ETT 2010-01-18,source
 459669675,old_railway_operator,PRR,regular
 460019757,source,NJ2002LULC,regular
 460019757,natural,scrub,regular
